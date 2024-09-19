@@ -1,0 +1,2106 @@
+0,1,2,3,4,5
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status
+1. 
+Anaesthetics",,,,,
+1.1    General Anaesthetics,,,,,
+Adrenaline (Epinephrine),Injection,"1 mg /ml 
+(1:1000)",M,R,
+Adrenaline (Epinephrine),Injection,"100 
+microgram/ 
+ml (1:10 000)",M,R,
+Atropine,Injection,0.6 mg/ ml,B2,R,
+Atropine,Injection,1 mg/ ml,B2,R,
+Bupivacaine,Injection,0.25% (plain),C,R,
+Bupivacaine,Injection,0.5% (heavy),C,R,
+Bupivacaine,Injection,5 mg/ml,C,NR,
+Bupivacaine + Adrenaline,Injection,"0.25% + 
+1:200 000",C,NR,
+Bupivacaine + Adrenaline,Injection,"0.5% + 1:200 
+000",C,NR,
+Diazepam,Injection,5 mg/ ml,M,R,
+Ephedrine Hydrochloride,Injection,50 mg,B2,R,
+Fentanyl,Injection,"50 
+microgram",C,NR,
+Intralipid,Infusion,20%,(blank),NR,
+Ketamine,Injection,10 mg/ml,B2,R,
+Ketamine,Injection,50 mg/ml,B2,R,
+Lidocaine,Injection,2%,M,R,
+Midazolam,Injection,5 mg/ml,C,R,
+Midazolam,Tablet,15 mg,B2,R,
+Nitrous Oxide: Oxygen,Inhalation,50-50,(blank),NR,
+Oxygen,Inhalation,(blank),M,NR,
+Ropivacaine,Injection,7.5 mg/ml,C,R,
+Thiopentone Sodium,Injection,1 g,C,NR,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+1.2    Local Anaesthetics,,,,,
+Lidocaine,Cream,2%,M,R,
+Lidocaine,Gel,2%,M,R,
+Lidocaine,Injection,1%,M,R,
+Lidocaine,Injection,2%,M,R,
+Lidocaine,Injection,20 mg/ml,B2,R,
+Lidocaine,Spray,10%,M,R,
+Lidocaine + Adrenaline,Injection,"10 mg/ml + 5 
+microgram/
+ml",B2,R,
+Lidocaine + Adrenaline,Injection,"20 mg/ml + 5 
+microgram/
+ml",B2,R,
+"2. 
+Analgesics, Antipyretics, NSAIDs and Drugs used 
+in Gout",,,,,
+2.1    Drugs used in Gout,,,,,
+Allupurinol,Tablet,100 mg,B1,R,
+Allupurinol,Tablet,300 mg,B1,R,
+Colchicine,Tablet,(blank),(blank),R,
+"2.2    Non-Opiod, Non-Steroidal Analgesics",,,,,
+Aspirin,Tablet,300 mg,A,R,
+Celecoxib,Tablet,100 mg,(blank),R,
+Celecoxib,Tablet,200 mg,(blank),R,
+Diclofenac,Capsule,75 mg,B1,R,
+Diclofenac,Gel,1%,M,R,
+Diclofenac,Injection,25 mg/ml,B1,R,
+Diclofenac,Spray,(blank),M,R,
+Diclofenac,Suppository,100 mg,M,R,
+Diclofenac,Suppository,50 mg,A,R,
+Diclofenac,Tablet,50 mg,A,R,
+Ibuprofen,Suspension,100 mg/5 ml,A,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Ibuprofen,Tablet,200 mg,A,R,
+Ibuprofen,Tablet,400 mg,A,R,
+Indomethacin,Tablet,25 mg,(blank),R,
+Indomethacin,Tablet,75 mg,(blank),R,
+Mefenamic Acid,Tablet,500 mg,(blank),R,
+Naproxen,"Tablet 
+(Enteric 
+Coated)",500 mg,(blank),R,
+Paracetamol,Injection,10 mg/ml,M,R,
+Paracetamol,Suppository,125 mg,M,R,
+Paracetamol,Suppository,250 mg,A,R,
+Paracetamol,Suppository,500 mg,A,R,
+Paracetamol,Syrup,120 mg/5 ml,M,R,
+Paracetamol,Tablet,500 mg,M,R,
+2.3    Opioid Analgesics,,,,,
+Codeine,Tablet,15 mg,B2,R,
+Codeine,Tablet,60 mg,B2,R,
+Fentanyl,"Transdermal 
+patch",(blank),B2,NR,
+Morphine Sulphate,Injection,10 mg/ml,B2,R,
+Morphine Sulphate,"Injection 
+(preserva-
+tive-free)",10 mg/ml,SM,R,
+Morphine Sulphate,Tablet,10 mg,B2,R,
+Morphine Sulphate,"Tablet (slow 
+release)",30 mg,B2,R,
+Pethidine,Injection,50 mg/ml,B2,R,
+Tramadol Hydrochloride,Capsule,50 mg,B2,NR,
+"Tramadol Hydrochloride
+2.4    Others",Injection,50 mg/ml,B2,NR,
+Abatacept,Injection,125 mg/ml,(blank),R,
+Adalimumab,Injection,50 mg/ml,(blank),R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Anakinra,Injection,150 mg/ml,(blank),R,
+Azathioprine,Injection,25 mg,(blank),R,
+Azathioprine,Tablet,25 mg,(blank),R,
+Belimumab,Infusion,120 mg,(blank),R,
+Belimumab,Infusion,400 mg,(blank),R,
+Celecoxib,Tablet,200 mg,(blank),R,
+Certolizumab,Tablet,200 mg/ml,(blank),R,
+Clonidine,Tablet,(blank),(blank),R,
+Cyclophosphamide,Injection,200 mg,D,NR,
+Cyclophosphamide,Injection,500 mg,D,R,
+Cyclophosphamide,Tablet,50 mg,D,NR,
+Cycloserine,Capsule,250 mg,(blank),R,
+Cyclosporine,Injection,50 mg/ml,(blank),R,
+Cyclosporine,Oral Solution,100 mg/ml,(blank),R,
+Cyclosporine,Tablet,10 mg,(blank),R,
+Cyclosporine,Tablet,25 mg,(blank),R,
+D-penicillamine,Tablet,125 mg,(blank),R,
+Etanercept,Injection,50 mg/ml,(blank),R,
+Gabapentin,Tablet,(blank),(blank),R,
+Golimumab,Injection,100 mg/ml,(blank),R,
+Hydroxychloroquine,Tablet,200 mg,(blank),R,
+Infliximab,Injection,100 mg,(blank),R,
+Leflunomide,Tablet,10 mg,(blank),R,
+Leflunomide,Tablet,100 mg,(blank),R,
+Leflunomide,Tablet,15 mg,(blank),R,
+Methocarbamol,Tablet,750 mg,(blank),R,
+Methotrexate,Tablet,2.5 mg,D,R,
+Methotrexate,Tablet,25 mg/ml,D,R,
+Methylprednisolone,Infusion,(blank),(blank),R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Minocycline,"Capsule 
+(Modified-re-
+lease)",100 mg,(blank),R,
+Mycophenolate mofetil,Capsule,250 mg,(blank),R,
+Mycophenolate mofetil,Injection,500 mg,(blank),R,
+Mycophenolate mofetil,Suspension,200 mg/ml,(blank),R,
+Pregabalin,Tablet,(blank),(blank),R,
+Rituximab,Injection,10 mg/ml,(blank),R,
+Rituximab,Injection,"119.66 mg/
+ml",(blank),R,
+Sodium Aurothiomalate,Injection,100 mg/ml,(blank),R,
+Sodium Aurothiomalate,Injection,20 mg/ml,(blank),R,
+Sulfasalazine,Suspension,50 mg/ml,(blank),R,
+Sulfasalazine,Tablet,500 mg,(blank),R,
+Tacrolimus,Injection,5 mg/ml,(blank),R,
+Tacrolimus,Tablet,2 mg,(blank),R,
+Tacrolimus,Tablet,5 mg,(blank),R,
+Tacrolimus,Tablet,"500 
+microgram",(blank),R,
+Tocilizumab,Injection,180 mg/ml,(blank),R,
+Tocilizumab,Injection,20 mg/ml,(blank),R,
+Tofacitinib,Tablet,11 mg,(blank),R,
+Tofacitinib,Tablet,5 mg,(blank),R,
+"3. 
+Anti-Allergic Drugs",,,,,
+Adrenaline (Epinephrine),Injection,"1 mg /ml 
+(1:1000)",M,R,
+Cetirizine,Tablet,10 mg,A,R,
+Chlorpheniramine,Syrup,3 mg/5 ml,A,R,
+Chlorpheniramine,Tablet,4 mg,A,R,
+Dexamethasone,Injection,4 mg/ml,C,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Dexamethasone,Tablet,"500 
+microgram",D,R,
+Hydrocortisone,Cream,0.5%,B1,R,
+Hydrocortisone,Cream,1%,B1,R,
+Hydrocortisone,Injection,100 mg,M,R,
+Hydrocortisone,Tablet,10 mg,C,NR,
+Hydrocortisone,Tablet,20 mg,SM,NR,
+Prednisolone,Tablet,5 mg,B1,R,
+"Promethazine 
+Hydrochloride",Elixir,6 mg/5 ml,A,R,
+"Promethazine 
+Hydrochloride",Injection,25 mg/ml,B1,R,
+"Promethazine 
+Hydrochloride",Tablet,25 mg,A,R,
+"4. 
+Anti-infective Drugs",,,,,
+4.1.    Anti-bacterial Drugs,,,,,
+Anti-tuberculous Drugs,,,,,
+Capreomycin,Tablet,(blank),(blank),NR,
+Cycloserine,Tablet,(blank),(blank),NR,
+Ethambutol,Tablet,100 mg,PM,NR,
+Ethambutol,Tablet,400 mg,PM,NR,
+Ethionamide,Tablet,(blank),(blank),NR,
+Isoniazid,Tablet,100 mg,PM,NR,
+Isoniazid,Tablet,300 mg,PM,NR,
+Kanamycin,Tablet,(blank),(blank),NR,
+Levofloxacin,Tablet,(blank),(blank),NR,
+Para-aminosalicylic acid,Tablet,(blank),(blank),NR,
+Prothionamide,Tablet,(blank),(blank),NR,
+Pyrazinamide,Tablet,150 mg,PM,NR,
+Pyrazinamide,Tablet,400 mg,PM,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Pyridoxine,Tablet,100 mg,B1,R,
+Pyridoxine,Tablet,50 mg,B1,R,
+Rifampicin,Tablet,300 mg,PM,NR,
+Rifampicin + Isoniazid,Tablet,"150 mg + 
+75 mg",PM,NR,
+Rifampicin + Isoniazid,Tablet,"60 mg + 30 
+mg",PM,NR,
+"Rifampicin + Isoniazid + 
+Ethambutol",Tablet,"150 mg + 75 
+mg + 275 mg",PM,NR,
+"Rifampicin + Isoniazid + 
+Pyrazinamide",Tablet,"60 mg + 30 
+mg + 150 mg",PM,NR,
+"Rifampicin + Isoniazid 
++ Pyrazinamide + 
+Ethambutol",Tablet,"150 mg + 75 
+mg + 400 mg 
++ 275 mg",PM,NR,
+Streptomycin Sulphate,Injection,1 g,PM,NR,
+Other Anti-bacterial Drugs,,,,,
+Azithromycin,Capsule,250 mg,C,R,
+Azithromycin,Injection,(blank),C,R,
+Azithromycin,Suspension,200 mg/ml,C,R,
+Cefixime,Suspension,20 mg/ml,(blank),R,
+Cefixime,Tablet,200 mg,(blank),R,
+Cefotaxime,Injecton,1 g,C,R,
+Cefotaxime,Injecton,500 mg,C,R,
+Ceftriaxone,Injecton,1 g,C,R,
+Ceftriaxone,Injecton,2 g,D,R,
+Ceftriaxone,Injecton,250 mg,C,R,
+Cefuroxime,Injection,1.5 g,B2,R,
+Cefuroxime,Injection,750 mg,B2,R,
+Cefuroxime,Suspension,125 mg/5 ml,B2,R,
+Cefuroxime,Tablet,125 mg,B2,R,
+Cefuroxime,Tablet,250 mg,B2,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Chloramphenicol,Injection,1 g,C,R,
+Chloramphenicol,Injection,(blank),C,R,
+Ciprofloxacin,Infusion,2 mg/ml,B2,R,
+Ciprofloxacin,Tablet,250 mg,B1,R,
+Ciprofloxacin,Tablet,500 mg,B1,R,
+Clarithromycin,Capsule,250 mg,C,R,
+Clarithromycin,Capsule,500 mg,C,R,
+Clarithromycin,Suspension,125 mg/ml,C,R,
+Clindamycin,Capsule,150 mg,C,R,
+Clindamycin,Cream,2%,M,R,
+Clindamycin,Gel,1%,M,R,
+Clindamycin,Injection,150 mg/ml,C,R,
+Clindamycin,Suspension,75 mg/5 ml,C,R,
+Co-trimoxazole,Suspension,"(200 mg + 40 
+mg)/5 ml",A,R,
+Co-trimoxazole,Tablet,"400 mg + 
+80 mg",A,R,
+Doxycycline,Tablet,100 mg,B1,R,
+Erythromycin,Syrup,125 mg/5 ml,B1,R,
+Erythromycin,Tablet,250 mg,B1,R,
+Gentamicin,Injection,40 mg/ml,C,R,
+Levofloxacin,Injection,(blank),(blank),NR,
+Levofloxacin,Tablet,(blank),(blank),NR,
+Nitrofurantoin,Tablet,100 mg,B2,R,
+Norfloxacin,Injection,(blank),(blank),R,
+Vancomycin,Injection,500 mg,(blank),R,
+Penicillins,,,,,
+Amoxicillin,Capsule,250 mg,A,R,
+Amoxicillin,Capsule,500 mg,A,R,
+Amoxicillin,Suspension,125 mg/5 ml,A,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+"Amoxicillin + Clavulanic 
+Acid",Injection,"500 mg + 100 
+mg",B2,R,
+"Amoxicillin + Clavulanic 
+Acid",Suspension,"250 mg + 
+62 mg",B1,R,
+"Amoxicillin + Clavulanic 
+Acid",Suspension,"400 mg + 
+57 mg",B1,R,
+"Amoxicillin + Clavulanic 
+Acid",Tablet,"250 mg + 125 
+mg",B1,R,
+"Amoxicillin + Clavulanic 
+Acid",Tablet,"500 mg + 125 
+mg",B1,R,
+Ampicillin,Injection,500 mg,B1,R,
+"Benzathine 
+Benzylpenicillin",Injection,1.2 MU,B2,NR,
+"Benzathine 
+Benzylpenicillin",Injection,2.4 MU,B2,NR,
+Benzyl Penicillin,Injection,1 MU,B1,R,
+Benzyl Penicillin,Injection,5 MU,B1,R,
+Cloxacillin,Injection,250 mg,B1,R,
+Cloxacillin,Injection,500 mg,B1,R,
+Flucloxacillin,Capsule,250 mg,B1,R,
+Flucloxacillin,Suspension,125 mg/5 ml,B1,R,
+Phenoxymethyl Penicillin,Tablet,250 mg,B1,R,
+Tetracyclines,,,,,
+"Tetracycline
+Capsule
+250 mg
+B1
+R",,,,,
+4.2.    Anti-fungal Drugs for systemic use,,,,,
+Fluconazole,Tablet,50 mg,B2,R,
+Griseofulvin,Tablet,125 mg,B1,R,
+Griseofulvin,Tablet,500 mg,B1,R,
+Itraconazole,Tablet,100 mg,D,R,
+Miconazole,Oral Gel,20 mg/g,B1,R,
+Nystatin,Suspension,"100 000 
+IU/ml",B2,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+"Terbinafine Hydrochloride
+Tablet
+250 mg
+D
+R",,,,,
+4.3.    Antihelminthic Drugs,,,,,
+Anti-schistosomal,,,,,
+"Praziquantel
+Tablet
+600 mg
+B1
+R",,,,,
+Intestinal,,,,,
+Albendazole,Syrup,100 mg/5 ml,A,R,
+Albendazole,Tablet,200 mg,A,R,
+Albendazole,Tablet,400 mg,A,R,
+Mebendazole,Tablet,100 mg,A,R,
+Mebendazole,Tablet,500 mg,A,R,
+Niclosamide,Tablet,500 mg,B1,R,
+Tiabendazole,Suspension,50 mg/ml,B1,R,
+Tiabendazole,Tablet,500 mg,B1,R,
+4.4.    Anti-protozoal Drugs,,,,,
+Anti-amoebic Drugs,,,,,
+Diloxanide Furoate,Suspension,(blank),(blank),R,
+Diloxanide Furoate,Tablet,(blank),(blank),R,
+Metronidazole,Injection,5 mg/ml,B1,R,
+Metronidazole,Suppository,125 mg,B2,R,
+Metronidazole,Suppository,500 mg,B2,R,
+Metronidazole,Suspension,100 mg/5 ml,A,R,
+Metronidazole,Suspension,200 mg/5 ml,A,R,
+Metronidazole,Tablet,200 mg,A,R,
+Metronidazole,Tablet,400 mg,A,R,
+Paromomycin,Suspension,(blank),(blank),R,
+Paromomycin,Tablet,(blank),(blank),R,
+Secnidazole,Tablet,500 mg,B2,R,
+Tinidazole,Suspension,(blank),B2,R,
+Tinidazole,Tablet,500 mg,B2,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status
+Anti-malarial Drugs",,,,,
+"Artemether + 
+Lumefantrine","Dispersible 
+Tablet","20 mg + 120 
+mg",A,R,
+"Artemether + 
+Lumefantrine",Tablet,"20 mg + 120 
+mg",A,R,
+Artesunate,Injection,"60 mg (as 
+Anhydrous 
+Aretsunic 
+Acid) + 5% 
+Sodium 
+Bicarbonate 
+Solution for 
+reconstitution",B2,R,
+Artesunate,Suppository,200 mg,A,R,
+Artesunate,Suppository,50 mg,A,R,
+"Artesunate + 
+Amodiaquine","Granular 
+Powder","25 mg + 75 
+mg",A,R,
+"Artesunate + 
+Amodiaquine",Tablet,"100 mg + 270 
+mg",A,R,
+"Artesunate + 
+Amodiaquine",Tablet,"25 mg + 67.5 
+mg",A,R,
+"Artesunate + 
+Amodiaquine",Tablet,"25 mg + 75 
+mg",A,R,
+"Artesunate + 
+Amodiaquine",Tablet,"50 mg + 135 
+mg",A,R,
+"Artesunate + 
+Amodiaquine",Tablet,"50 mg + 150 
+mg",A,R,
+Arthemether,Injection,40 mg/ml,B2,R,
+Arthemether,Injection,80 mg/ml,B2,R,
+"Dihydroartemisinin + 
+Piperaquine",Tablet,"40 mg + 320 
+mg",A,R,
+Quinine,Injection,"300 mg/ml in 
+2 mls",B2,R,
+Quinine,Syrup,20 mg/ml,B1,R,
+Quinine,Tablet,300 mg,M,R,
+Quinine + Clindamycin,Tablet,(blank),(blank),R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+"Sulfadoxine + 
+Tablet
+500 mg + 
+PM
+NR
+Pyrimethamine
+25 mg",,,,,
+4.5.    Anti-viral Drugs,,,,,
+Acyclovir,Injection,25 mg/ml,C,R,
+Acyclovir,Suspension,200 mg/5 ml,B2,R,
+Acyclovir,Tablet,200 mg,B2,R,
+"5. 
+Anticonvulsants",,,,,
+Carbamazepine,Tablet,100 mg,B2,R,
+Carbamazepine,Tablet,200 mg,B2,R,
+Carbamazepine,"Tablet 
+(sustained-re-
+lease)",200 mg,C,R,
+Carbamazepine,"Tablet 
+(sustained-re-
+lease)",400 mg,C,R,
+"Clonazepam 
+Hydrochloride",Oral Solution,"100 
+microgram/
+ml",(blank),R,
+"Clonazepam 
+Hydrochloride",Tablet,"500 
+microgram",(blank),R,
+Diazepam,Injection,5 mg/ml,B1,R,
+Diazepam,Rectal Tubes,2 mg/ml,A,R,
+Ethosuximide,Syrup,250 mg/5 ml,D,R,
+Ethosuximide,Tablet,250 mg,D,R,
+Lamotrigine,"Dispersible 
+Tablet",25 mg,(blank),R,
+Lamotrigine,Tablet,25 mg,(blank),R,
+Lamotrigine,Tablet,50 mg,(blank),R,
+Levetiracetam,Injection,100 mg/ml,(blank),R,
+Levetiracetam,Oral Solution,100 mg/ml,(blank),R,
+Levetiracetam,Tablet,250 mg,(blank),R,
+Levetiracetam,Tablet,750 mg,(blank),R,
+Lorazepam,Injection,4 mg/ml,D,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Magnesium Sulphate,Injection,20%,M,R,
+Magnesium Sulphate,Injection,25%,M,R,
+Magnesium Sulphate,Injection,50%,M,R,
+Midazolam,Injection,5 mg/ml,C,R,
+Midazolam,"Oromucosal 
+Solution",5 mg/ml,C,R,
+Phenobarbital,Injection,200 mg/ml,B1,R,
+Phenytoin,Capsule,100 mg,B1,R,
+Phenytoin,Injection,50 mg/ml,D,R,
+Phenytoin,Tablet,100 mg,B1,R,
+Sodium Valproate,Capsule,200 mg,D,R,
+Sodium Valproate,Capsule,500 mg,D,R,
+Sodium Valproate,Syrup,200 mg/5 ml,D,R,
+Sodium Valproate,Tablet,200 mg,D,R,
+"6. 
+Antidotes and other substances used in 
+poisoning",,,,,
+"6.1.   Specific antidotes
+Acetylcysteine
+Injection
+200 mg/ml
+B1
+R",,,,,
+"Activated Charcoal
+Powder
+50 g
+A
+R",,,,,
+"Adrenaline (Epinephrine)
+Injection
+1 mg /ml 
+M
+R
+(1:1000)",,,,,
+"Atropine
+Injection
+0.6 mg/ml
+B2
+R",,,,,
+"Benzatropine
+Injection
+1 mg/ml
+C
+R",,,,,
+"Cholestyramine
+Oral Powder 
+4 g
+(blank)
+R
+Sachets",,,,,
+"Desferrioxamine
+Injection
+500 mg
+(blank)
+R",,,,,
+"Diazepam
+Injection
+10 mg/ml
+B1
+R",,,,,
+"Ethanol 
+Solution
+10%
+(blank)
+R",,,,,
+"Flumazenil
+Injection
+0.2 mg
+D
+R",,,,,
+"Fomepizole
+Injection
+5 mg/ml
+(blank)
+R",,,,,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Fresh Frozen Plasma,(blank),(blank),(blank),(blank),
+Hydroxocobalamin,Injection,1 mg/ml,D,R,
+N-acetylcysteine,Injection,200 mg/ml,C,R,
+Naloxone,Injection,"200 
+microgram/
+ml",C,R,
+Naloxone,Injection,"400 
+microgram/
+ml",C,R,
+Omeprazole,Tablet,40 mg,B1,R,
+Phytomenadione,Injection,10 mg/ml,M,R,
+Phytomenadione,Tablet,10 mg,B2,NR,
+"Promethazine 
+Hydrochloride",Tablet,25 mg,A,R,
+Ranitidine,Injection,25 mg/ml,C,R,
+Ranitidine,Tablet,150 mg,B2,R,
+Salbutamol,Tablet,4 mg,(blank),(blank),
+Sodium Thiosulfate,(blank),(blank),(blank),R,
+"7. 
+Anti-migrane Drugs",,,,,
+Aspirin,Tablet,300 mg,A,R,
+Clonidine,Tablet,"100 
+microgram",(blank),R,
+Clonidine,Tablet,"25 
+microgram",(blank),R,
+Paracetamol,Tablet,500 mg,A,R,
+Propranolol,Tablet,40 mg,B2,R,
+"8. 
+Antineoplastic and Immunosuppressive Drugs",,,,,
+"8.1    Cytotoxic Drugs
+Actinomycin D
+Injection
+10 mg
+(blank)
+NR",,,,,
+"Adriamycin Hydrochloride 
+Injection
+10 mg
+D
+NR",,,,,
+"Adriamycin Hydrochloride 
+Injection
+50 mg
+D
+R",,,,,
+"Bacillus Calmette-Guerin 
+Injection
+12.5 mg
+SM
+NR",,,,,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Bacillus Calmette-Guerin,Injection,81 mg,SM,NR,
+Bicalutamide,Tablet,100 mg,D,NR,
+Bicalutamide,Tablet,50 mg,D,NR,
+Carboplatin,Injection,10 mg/ml,(blank),NR,
+Cisplatin,Injection,50 mg,D,NR,
+Cyclophosphamide,Injection,200 mg,D,NR,
+Cyclophosphamide,Injection,500 mg,D,R,
+Cyclophosphamide,Tablet,50 mg,D,NR,
+Doxorubucin,Injection,10 mg,(blank),NR,
+Doxorubucin,Injection,2 mg/ml,(blank),NR,
+Etoposide,Capsule,100 mg,D,NR,
+Etoposide,Injection,20 mg/ml,D,NR,
+Flutamide,Tablet,250 mg,D,NR,
+Goserelin,Injection,10.8 mg,D,NR,
+Goserelin,Injection,3.6 mg,D,NR,
+Hydroxycarbamide,Capsule,500 mg,SM,NR,
+Leuprolide Acetate,Injection,3.75 mg/ml,D,NR,
+Methotrexate,Injection,2.5 mg/ml,D,R,
+Methotrexate,Injection,25 mg/ml,D,R,
+Methotrexate,Tablet,10 mg,D,R,
+Methotrexate,Tablet,2.5 mg,D,R,
+Stilboestrol,Tablet,1 mg,D,NR,
+Stilboestrol,Tablet,2 mg,D,NR,
+Stilboestrol,Tablet,5 mg,D,NR,
+Thiotepa,Injection,15 mg,SM,NR,
+Vinblastine,Injection,1 mg/ml,D,NR,
+Vincristine,Injection,1 mg,D,NR,
+Vincristine,Injection,2 mg,D,NR,
+Vincristine,Injection,5 mg,D,NR,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+8.2.    Hormones and Anit-hormones,,,,,
+"Prednisolone
+Tablet
+5 mg
+B2
+R",,,,,
+"9. 
+Anti-parkinsonism Drugs",,,,,
+Benzatropine,Tablet,2 mg,C,R,
+Biperiden,Injection,5 mg/ml,C,NR,
+Biperiden,Tablet,2 mg,C,NR,
+Trihexyphenidyl,Tablet,2 mg,C,R,
+Trihexyphenidyl,Tablet,5 mg,C,R,
+10.  Blood products and Blood substitutes,,,,,
+Cryoprecipitate,Injection,(blank),B2,NR,
+Fresh Frozen Plasma,Injection,(blank),B2,NR,
+Packed Red Cells,Injection,(blank),B2,NR,
+Platelet Concentrate,Injection,(blank),B2,NR,
+Purified Factor IX,Injection,(blank),(blank),R,
+Purified Factor VIII,Injection,(blank),(blank),R,
+Recombinant Factor IX,Injection,(blank),(blank),R,
+Recombinant Factor VIII,Injection,(blank),(blank),R,
+Salt-poor Human Albumin,Solution,(blank),(blank),R,
+Whole blood,(blank),(blank),(blank),(blank),
+11.  Cardiovascular Drugs,,,,,
+"11.1   Anti-anginal Drugs
+Aspirin 
+Chewable 
+300 mg
+C
+R
+Tablet",,,,,
+"Glyceryl Trinitrate 
+Tablet
+500 
+C
+R
+microgram",,,,,
+"Isosorbide Dinitrate
+Tablet
+10 mg
+C
+R",,,,,
+"Isosorbide Dinitrate
+Tablet 
+5 mg
+C
+R",,,,,
+"Nifedipine
+Tablet
+10 mg (Slow 
+B2
+R
+release)",,,,,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Nifedipine,Tablet,"20 mg (Slow 
+release)",B2,R,
+Nifedipine,Tablet,30 mg (GITS),B2,R,
+Propranolol,Tablet,10 mg,B2,R,
+Propranolol,Tablet,40 mg,B2,R,
+Propranolol,Tablet,80 mg,B2,R,
+11.2.    Anti-dysrythmic,,,,,
+Atenolol,Tablet,25 mg,B2,R,
+Atenolol,Tablet,50 mg,B2,R,
+Bisoprolol,Tablet,5 mg,B2,R,
+Digoxin,Elixir,"50 
+microgram/
+ml",C,R,
+Digoxin,Tablet,"125 
+microgram",C,R,
+Digoxin,Tablet,"250 
+microgram",C,R,
+Metoprolol Tartrate,Tablet,100 mg,(blank),R,
+Metoprolol Tartrate,Tablet,50 mg,(blank),R,
+Propranolol,Tablet,10 mg,B2,R,
+Propranolol,Tablet,40 mg,B2,R,
+Propranolol,Tablet,80 mg,B2,R,
+"Verapamil
+11.3.    Anti-hypertensive Drugs",Tablet,(blank),(blank),R,
+Amlodipine,Tablet,10 mg,B2,R,
+Amlodipine,Tablet,5 mg,B2,R,
+Atenolol,Injection,"500 
+microgram/
+ml",D,R,
+Atenolol,Tablet,100 mg,B2,R,
+Atenolol,Tablet,25 mg,B2,R,
+Atenolol,Tablet,50 mg,B2,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Bendroflumethiazide,Tablet,2.5 mg,B2,R,
+Bendroflumethiazide,Tablet,5 mg,B1,R,
+Bisoprolol,Tablet,10 mg,B2,R,
+Bisoprolol,Tablet,5 mg,B2,R,
+Candesartan,Tablet,16 mg,D,NR,
+Candesartan,Tablet,8 mg,D,NR,
+Cervedilol,Tablet,12.5 mg,(blank),R,
+Cervedilol,Tablet,3.125 mg,(blank),R,
+Dobutamide,Injection,12.5 mg/ml,D,NR,
+Enalapril,Tablet,10 mg,B2,R,
+Enalapril,Tablet,2.5 mg,B2,R,
+Hydralazine,Injection,20 mg,C,R,
+Hydralazine,Tablet,25 mg,B2,R,
+Hydrochlorothiazide,Tablet,12.5 mg,(blank),R,
+Hydrochlorothiazide,Tablet,25 mg,B2,R,
+Labetalol,Injection,5 mg/ml,D,R,
+Labetalol,Tablet,200 mg,B2,R,
+Labetalol,Tablet,50 mg,B2,R,
+Lisinopril,Tablet,10 mg,B2,R,
+Lisinopril,Tablet,2.5 mg,B2,R,
+Lisinopril,Tablet,5 mg,B2,R,
+Losartan,Tablet,100 mg,C,R,
+Losartan,Tablet,25 mg,C,R,
+Losartan,Tablet,50 mg,C,R,
+Methyldopa,Tablet,250 mg,M,R,
+Metoprolol Tartrate,Tablet,50 mg,(blank),R,
+Nifedipine,Tablet,10 mg,C,R,
+Nifedipine,Tablet,"10 mg (Slow 
+release)",M,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Nifedipine,Tablet,"20 mg (Slow 
+release)",M,R,
+Nifedipine,Tablet,30 mg (GITS),M,R,
+Nifedipine,Tablet,5 mg,D,R,
+Prazosin,Tablet,"500 
+microgram",D,R,
+Propranolol,Injection,1 mg/ml,D,R,
+Propranolol,Tablet,10 mg,B2,R,
+Propranolol,Tablet,40 mg,B2,R,
+Propranolol,Tablet,80 mg,B2,R,
+Ramipril,Tablet,2.5 mg,C,R,
+Spironolactone,Tablet,25 mg,C,R,
+Spironolactone,Tablet,50 mg,C,R,
+Valsartan,Tablet,160 mg,(blank),R,
+"Valsartan
+11.4.    Cardiac Glycosides",Tablet,40 mg,(blank),R,
+Digoxin,Elixir,"50 
+microgram/
+ml",C,R,
+Digoxin,Tablet,"125 
+microgram",C,R,
+"Digoxin
+11.5.    Drugs used in shock",Tablet,"250 
+microgram",C,R,
+Hydrocortisone,Injection,100 mg,M,R,
+Polygeline,Infusion,3.5%,(blank),R,
+,11.6.    Insulins and other antidiabetic drugs,,,,
+"Insulin Aspart (Fast 
+acting)",Injection,100 units/ml,C,NR,
+11.7.    Lipid-regulating Drugs,,,,,
+Atorvastatin,Tablet,10 mg,C,R,
+Atorvastatin,Tablet,20 mg,C,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Rosuvastatin,Tablet,10 mg,C,R,
+Rosuvastatin,Tablet,5 mg,C,R,
+Simvastatin,Tablet,10 mg,C,R,
+Simvastatin,Tablet,20 mg,C,R,
+Simvastatin,Tablet,30 mg,C,R,
+"Simvastatin
+11.8.    Others",Tablet,40 mg,C,R,
+Dobutamine,"Solution for 
+Infusion",5 mg/ml,(blank),R,
+,12.  Dermatological preparations,,,,
+12.1.  Anti-infective Drugs,,,,,
+Acyclovir,Cream,5%,C,R,
+Adapalene,Cream,0.1%,(blank),R,
+Adapalene,Gel,0.1%,(blank),R,
+Cetrimide,Solution,15%,M,NR,
+"Cetrimide + Chlorhexidine 
+Gluconate",Solution,"0.15% + 
+0.015%",A,R,
+"Cetrimide + Chlorhexidine 
+Gluconate",Solution,15% + 1.5%,A,R,
+Chlorhexidine,Gel,"7.1% 
+(digluconate) 
+delivering 4% 
+chlorhexidine",A,R,
+Chlorhexidine,Solution,"7.1% 
+(digluconate) 
+delivering 4% 
+chlorhexidine",A,R,
+Fusidic Acid,Cream,2%,(blank),R,
+Mupirocin,Ointment,2%,(blank),R,
+Povidone Iodine,Solution,10%,(blank),R,
+Silver Sulphadiazine,Cream,1%,B1,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+12.2.    Anti-inflammatory and Anti-pruritic Drugs,,,,,
+"Betamethasone 
+Diproprionate",Cream,0.05%,C,R,
+"Betamethasone 
+Diproprionate",Cream,0.1%,C,R,
+Calamine,Cream,15%,A,R,
+Calamine,Lotion,15%,A,R,
+Clobetasol Propionate,Cream,0.05%,(blank),R,
+Hydrocortisone,Cream,0.5%,B1,R,
+Hydrocortisone,Cream,1%,B1,R,
+Hydrocortisone,Cream,2.5%,D,R,
+Mometasone,Cream,0.1%,(blank),R,
+Zinc Oxide,Cream,(blank),(blank),R,
+12.3.    Anti-fungal Drugs,,,,,
+"Benzoic Acid + Salicylic 
+Acid",Ointment,6% + 3%,A,R,
+Ciclopirox Olamine,Cream,1%,B1,R,
+Clotrimazole,Cream,1%,A,R,
+Clotrimazole,Cream,2%,A,R,
+Clotrimazole,Pessary,100 mg,M,R,
+Clotrimazole,Powder,1%,A,R,
+Clotrimazole,"Topical 
+Solution",1%,A,R,
+"Clotrimazole + 
+Hydrocortisone",Cream,1% + 1%,C,R,
+"Clotrimazole + 
+Hydrocortisone",Cream,2% + 1%,C,NR,
+Econazole,Cream,(blank),(blank),R,
+Ketoconazole,Shampoo,(blank),C,R,
+Miconazole,Cream,2%,B2,R,
+Miconazole,Oral Gel,24 mg/ml,B2,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Miconazole,Powder,2%,B2,R,
+Miconazole,Tincture,(blank),B2,R,
+Miconazole,Vaginal Tablet,200 mg,B2,R,
+"Miconazole + 
+Hydrocortisone",Cream,2% + 1%,(blank),NR,
+Nystatin,Cream,(blank),M,R,
+Selenium Sulphide,Shampoo,2.5%,C,R,
+12.4.    Astringent Agents,,,,,
+"Salicylic Acid
+Ointment
+0.02
+B1
+R",,,,,
+12.5.    Emollients and Vehicles,,,,,
+Aqueous Cream,,BP,A,R,
+Aqueous Soap,,(blank),A,R,
+Paraffin,Cream,(blank),A,R,
+12.6.    Scabicides and Pediculocides,,,,,
+Benzyl Benzoate,Lotion,0.25,A,R,
+Malathoin,Liquid,0.5%,(blank),R,
+Permethrin,Lotion,1%,(blank),R,
+12.7    Others,,,,,
+Adapalene,Cream,0.1%,(blank),R,
+Adapalene,Gel,0.1%,(blank),R,
+Benzoyl Peroxide,Solution,0.05,C,R,
+Clindamycin,Solution,1%,C,R,
+Copper Sulphate,Stone,(blank),(blank),R,
+E45,Cream,(blank),(blank),R,
+Imiquimod,Cream,0.05,(blank),R,
+Oilatum,Soap,(blank),(blank),NR,
+Podophyllin,"Tincture of 
+benzoin",10-25%,(blank),R,
+Podophylotoxin,(blank),0.5%,(blank),R,
+Shea Butter,Cream,(blank),(blank),NR,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+"Tretinoin
+Gel
+0.01%
+(blank)
+R",,,,,
+"Trichloroacetic Acid
+(blank)
+80-90%
+(blank)
+R",,,,,
+13.  Diagnostic Agents,,,,,
+"13.1.    Ophthalmic Drugs
+Fluorescein 
+Solution
+2%
+C
+NR",,,,,
+"Fluorescein 
+Strips
+(blank)
+C
+NR",,,,,
+"Tropicamide
+Eye Drops
+1%
+C
+NR",,,,,
+14.  Disinfectants,,,,,
+Chlorhexidine,Cream,1%,A,R,
+Chlorhexidine,Solution,0.025,A,R,
+Chlorhexidine,Solution,0.04,A,NR,
+Povidone Iodine,Solution,0.1,B1,R,
+15.  Diuretics,,,,,
+Bendroflumethiazide,Tablet,2.5 mg,B1,R,
+Bendroflumethiazide,Tablet,5 mg,B1,R,
+Furosemide,Injection,10 mg/ml,B2,R,
+Furosemide,Tablet,40 mg,B1,R,
+Hypertonic Saline,Injection,0.03,(blank),R,
+Mannitol,Injection,0.2,C,R,
+Metolazone,Tablet,5 mg,D,R,
+Spironolactone,Tablet,25 mg,C,R,
+Spironolactone,Tablet,50 mg,C,R,
+16.  Drugs acting on the respiratory tract,,,,,
+"16.1.   Anti-asthmatic Drugs
+Adrenaline (Epinephrine)
+Injection
+1 mg /ml 
+M
+R
+(1:1000)",,,,,
+"Aminophylline
+Injection
+250 mg/10 
+B2
+R
+ml",,,,,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+"Beclometasone 
+Dipropionate",Inhaler,"100 
+microgram/
+metered 
+dose (200 
+doses)",B2,R,
+Budesonide,"metered dose 
+inhaler","100 
+microgram",D,R,
+Budesonide,"metered dose 
+inhaler","200 
+microgram",D,R,
+Budesonide + Formoterol,Inhaler,"160 
+microgram 
++ 4.5 
+microgram",D,R,
+Budesonide + Formoterol,Inhaler,"80 
+microgram 
++ 4.5 
+microgram",D,R,
+Fluticasone,Inhaler,"125 
+microgram",D,R,
+Fluticasone,Inhaler,"250 
+microgram",D,R,
+Fluticasone + Salmeterol,Inhaler,"250 
+microgram 
++ 50 
+microgram",D,R,
+Hydrocortisone,Injection,100 mg,M,R,
+Ipratropium Bromide,Nebuliser,(blank),(blank),R,
+Montelukast,"Chewable 
+Tablet",4 mg,(blank),R,
+Montelukast,"Chewable 
+Tablet",5 mg,(blank),R,
+Montelukast,"Granule 
+Sachets",4 mg,(blank),R,
+Montelukast,"Granule 
+Sachets",5 mg,(blank),R,
+Montelukast,Tablet,10 mg,(blank),R,
+Prednisolone,Tablet,5 mg,B2,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Salbutamol,Nebuliser,"2.5 mg 
+nebules",B1,R,
+Salbutamol,Nebuliser,5 mg nebules,B1,R,
+Salbutamol,"Pressurized 
+metered dose 
+Inhaler","100 
+microgram/
+metered 
+dose (200 
+doses)",A,R,
+Salbutamol,Syrup,2 mg/5 ml,B1,R,
+Salbutamol,Tablet,2 mg,B1,R,
+Salbutamol,Tablet,4 mg,B1,R,
+Theophylline,"Tablet (slow 
+release)",200 mg,B2,R,
+Tiotropium Bromide,"Inhaler (dry 
+powder)",(blank),(blank),R,
+16.2.    Antitussives,,,,,
+Acetylcysteine,Syrup,(blank),B1,R,
+Carbocysteine,Capsule,375 mg,B1,R,
+Carbocysteine,Syrup,125 mg/5 ml,B1,R,
+Carbocysteine,Syrup,250 mg/5 ml,B1,R,
+"Codeine containing cough 
+preparations",Syrup,(blank),(blank),R,
+"Dextromethorphan 
+containing cough 
+preparations",Syrup,(blank),(blank),R,
+"Guaifenesin containing 
+experorant",Syrup,(blank),(blank),R,
+Simple Linctus,"Paediatric 
+Formulation",(blank),A,R,
+Simple Linctus,Syrup,(blank),A,R,
+16.3.    Others,,,,,
+"Oxygen
+Inhalation
+(blank)
+M
+NR",,,,,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status
+17.  Drugs affecting the Blood",,,,,
+"17.1.    Anti-anaemia Drugs
+Darbepoietin alfa
+Injection
+100 
+(blank)
+(blank)
+microgram/
+ml",,,,,
+"Darbepoietin alfa
+Injection
+25 
+(blank)
+(blank)
+microgram/
+ml",,,,,
+"Darbepoietin alfa
+Injection
+500 
+(blank)
+(blank)
+microgram/
+ml",,,,,
+"Epoietin beta
+Injection
+10 000 units/
+(blank)
+(blank)
+ml",,,,,
+"Epoietin beta
+Injection
+2000 units/
+(blank)
+(blank)
+ml",,,,,
+"Ferric Sodium Gluconate 
+Injection
+(blank)
+(blank)
+(blank)
+complex",,,,,
+"Ferrous Fumarate
+Tablet
+65 mg 
+A
+R
+elemental 
+iron",,,,,
+"Ferrous Gluconate
+(blank)
+(blank)
+(blank)
+(blank)",,,,,
+"Ferrous Sulphate
+Syrup
+60 mg/5 ml
+A
+(blank)",,,,,
+"Ferrous Sulphate
+Tablet
+65 mg 
+A
+(blank)
+elemental 
+iron",,,,,
+"Folic Acid
+Tablet
+5 mg
+A
+R",,,,,
+"Hydroxocobalamin
+Injection
+1 mg/ml
+D
+R",,,,,
+"Iron (III) Hydroxide 
+Capsule
+100 mg 
+(blank)
+R
+Polymaltose Complex
+elemental 
+iron",,,,,
+"Iron (III) Hydroxide 
+Suspension
+100 mg 
+(blank)
+R
+Polymaltose Complex
+elemental 
+iron",,,,,
+"Iron Dextran
+Injection
+100 mg/2 ml
+C
+R",,,,,
+"Iron Sucrose
+Injection
+20 mg/ml
+SM
+R",,,,,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+"Methoxy polyethylene 
+glycol epoietin beta 
+(pegylated form of Epo)",Injection,"100 
+microgram/
+ml",(blank),(blank),
+"Methoxy polyethylene 
+glycol epoietin beta 
+(pegylated form of Epo)",Injection,"500 
+microgram/
+ml",(blank),(blank),
+17.2.    Anti-coagulants and Antagonists,,,,,
+Aspirin,"Dispersible 
+Tablet",75 mg,B2,R,
+Clopidogrel,Tablet,75 mg,(blank),R,
+Dalteparin,Injection,"10 000 units/
+ml",D,R,
+Dalteparin,Injection,"25 000 units/
+ml",D,R,
+Dalteparin,Injection,"2500 units/
+ml",D,R,
+Desmopressin,Nasal Spray,"150 
+microgram/
+dose",(blank),R,
+Enoxaparin,Injection,100 mg/ml,C,R,
+Heparin,Injection,"1000 units/
+ml",D,R,
+Heparin,Injection,"25 000 units/
+ml",D,R,
+Heparin,Injection,"5000 units/
+ml",D,R,
+Phytomenadione,Injection,1 mg/ml,M,R,
+Phytomenadione,Injection,10 mg/ml,M,R,
+Phytomenadione,Tablet,10 mg,B2,NR,
+Tranexamic Acid,Capsule,250 mg,C,R,
+Tranexamic Acid,Injection,"50 
+microgram/
+ml",D,R,
+Tranexamic Acid,Tablet,500 mg,C,R,
+Warfarin,Tablet,1 mg,D,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+"Warfarin
+Tablet
+3 mg
+D
+R",,,,,
+"Warfarin
+Tablet
+5 mg
+D
+R",,,,,
+18.  Gastro-intestinal Drugs,,,,,
+"18.1    Antacids and other Anti-ulcer Drugs
+Aluminium Hydroxide
+Tablet
+500 mg
+A
+R",,,,,
+"Antacid containing 
+Mixture
+(blank)
+(blank)
+R
+(Aluminium Hydroxide, 
+Magnesium Hydroxide, 
+Simethicone, Calcium 
+alginates)",,,,,
+"Esomeprazole
+Capsule
+20 mg
+C
+R",,,,,
+"Esomeprazole
+Capsule
+40 mg
+C
+R",,,,,
+"Esomeprazole
+Injection
+40 mg
+C
+NR",,,,,
+"Magnesium Trisilicate
+Mixture
+(blank)
+A
+R",,,,,
+"Magnesium Trisilicate
+Tablet
+500 mg
+A
+R",,,,,
+"Omeprazole
+Tablet
+20 mg
+B1
+R",,,,,
+"Pantoprazole
+Tablet
+40 mg
+(blank)
+R",,,,,
+"Rabeprazole
+Capsule
+10 mg
+C
+NR",,,,,
+"Rabeprazole
+Capsule
+20 mg
+C
+R
+18.2.    Anti-emetics",,,,,
+Cinnarizine,Injection,15 mg,(blank),R,
+Cyclizine,Injection,50 mg/ml,(blank),R,
+Cyclizine,Tablet,50 mg,(blank),R,
+Dexamethasone,Tablet,1 mg,D,R,
+Dexamethasone,Tablet,"500 
+microgram",D,R,
+Domperidone,Oral Solution,1 mg/ml,D,R,
+Domperidone,Tablet,10 mg,D,R,
+Granisetron,Injection,1 mg/ml,D,R,
+Granisetron,Tablet,1 mg,D,R,
+Lorazepam,Injection,4 mg/ml,D,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Lorazepam,Tablet,1 mg,B2,R,
+Lorazepam,Tablet,2 mg,B2,R,
+Lorazepam,Tablet,"500 
+microgram",B2,R,
+Metoclopramide,Injection,5 mg/ml,C,R,
+Metoclopramide,Tablet,10 mg,B2,R,
+Ondansetron,Tablet,4 mg,(blank),R,
+Ondansetron,Tablet,8 mg,(blank),R,
+"Promethazine 
+Hydrochloride",Elixir,5 mg/ml,A,R,
+"Promethazine 
+Hydrochloride",Injection,25 mg/ml,B1,R,
+Promethazine Teoclate,Tablet,25 mg,M,R,
+18.3.    Anti-haemorrhoidal Drugs,,,,,
+"Soothing Agent + Local 
+Anaesthetic",Ointment,(blank),M,R,
+"Soothing Agent + Local 
+Anaesthetic",Suppository,(blank),M,R,
+"Soothing Agent + Local 
+Anaesthetic + Steroid",Ointment,(blank),B1,R,
+"Soothing Agent + Local 
+Anaesthetic + Steroid
+18.4.    Anti-spasmodics",Suppository,(blank),B1,R,
+"Hyoscine-N-Butyl 
+Bromide",Injection,20 mg/ml,M,R,
+"Hyoscine-N-Butyl 
+Bromide",Tablet,10 mg,M,R,
+"Mebeverine
+18.5.    Cathartic Drugs",Tablet,135 mg,C,R,
+Bisacodyl,Suppository,10 mg,B1,R,
+Bisacodyl,Tablet,5 mg,B1,NR,
+Glycerol,Suppository,1 g,(blank),R,
+Glycerol,Suppository,2 g,(blank),R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Glycerol,Suppository,4 g,(blank),R,
+Lactulose,Liquid,3.1 - 3.7 g/ml,C,R,
+Magnesium Sulphate,Salt,(blank),B2,R,
+Milk of Magnesia,(blank),(blank),(blank),R,
+Paraffin,Liquid,(blank),A,R,
+Senna,Granules,(blank),A,NR,
+Senna,Syrup,7.5 mg/5 ml,A,NR,
+Senna,Tablet,7.5 mg,A,NR,
+18.6.   Drugs used in Diarrhoea,,,,,
+Oral Replacement Solution,,,,,
+Oral Rehydration Salts,Sachet,(blank),A,R,
+Zinc,Tablet,10 mg,A,R,
+"Zinc 
+18.6.    Others",Tablet,20 mg,A,R,
+Rifaximin,Tablet,200 mg,(blank),NR,
+Rifaximin,Tablet,550 mg,(blank),NR,
+Contraceptives,"19.  Hormones, other Endocrine Drugs and",,,,
+Dexamethasone,"19.1.    Adrenal Hormones and Synthetic substitutes 
+Injection",4 mg/ml,M,R,
+Hydrocortisone,Injection,100 mg,M,R,
+"Prednisolone
+19.2.    Contraceptives",Tablet,5 mg,B2,R,
+Condoms (Female),(blank),(blank),A,NR,
+Condoms (Male),(blank),(blank),A,NR,
+"Ethinylestradiol + 
+Levonorgestrel",Injection,(blank),PM,NR,
+"Ethinylestradiol + 
+Levonorgestrel",Tablet,(blank),PM,NR,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+"Ethinylestradiol + 
+Norethisterone",Tablet,(blank),PM,NR,
+"Medroxyprogesterone 
+Acetate",Injection,150 mg,PM,NR,
+"Norethisterone
+19.3.   Estrogens",(blank),(blank),(blank),NR,
+Conjugated Oestrogen,Tablet,"625 
+microgram",D,R,
+Conjugated Oestrogen,"Vaginal 
+Cream","625 
+microgram",D,R,
+"Conjugated Oestrogen + 
+Norgesterol","Tablet
+19.4.    Insulins and other Anti-diabetic Drugs","626 
+microgram 
++ 150 
+microgram",C,R,
+Glbenclamide,Tablet,5 mg,B1,R,
+Gliclazide,Tablet,80 mg,C,R,
+Glimerpiride,Tablet,1 mg,C,R,
+Glimerpiride,Tablet,2 mg,C,R,
+Glimerpiride,Tablet,4 mg,C,R,
+Glucagon,Injection,1 mg,C,R,
+"Insulin Determir (Long 
+acting)",Injection,100 units/ml,C,NR,
+"Insulin Glargine (Long 
+acting)",Injection,100 units/ml,C,NR,
+Insulin Lispro (Fast acting),Injection,100 units/ml,C,NR,
+"Insulin Pre-mixed (30/70) 
+HM",Injection,100 units/ml,C,R,
+"Insulin Soluble HM (Fast 
+acting)",Injection,100 units/ml,C,R,
+Metformin,Tablet,500 mg,B1,R,
+"NPH Insulin (Intermediate 
+acting)",Injection,100 units/ml,C,R,
+Pioglitazone,Tablet,15 mg,C,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Pioglitazone,Tablet,30 mg,C,R,
+Saxagliptin,Tablet,2.5 mg,(blank),R,
+Sitagliptin,Tablet,100 mg,(blank),R,
+Sitagliptin,Tablet,25 mg,(blank),R,
+Tolbutamide,Tablet,500 mg,C,R,
+Vildagliptin,Tablet,50 mg,(blank),R,
+19.5.     Other Endocrinological Drugs,,,,,
+"Bromocriptine
+Tablet
+1.25 mg
+D
+R",,,,,
+"Bromocriptine
+Tablet
+2.5 mg
+D
+R
+19.6.    Ovulation Inducers",,,,,
+"Clomifene Citrate
+Tablet
+50 mg
+D
+NR
+19.7.    Progestogens",,,,,
+"Medroxyprogesterone 
+Acetate",Tablet,5 mg,D,R,
+Norethisterone,Tablet,5 mg,D,R,
+19.8.    Thyroid hormones and Anti-thyroid Drugs,,,,,
+Carbimazole,Tablet,20 mg,C,R,
+Carbimazole,Tablet,5 mg,C,R,
+Levothyroxine,Tablet,"100 
+microgram",C,R,
+Levothyroxine,Tablet,"50 
+microgram",C,R,
+Propylthiouracil,Tablet,50 mg,D,R,
+"20. 
+Immunologicals",,,,,
+"20.1.    Sera and Immunoglobulins
+Anti D Rh 
+Injection
+250 units/ml
+C
+R
+Immunoglobulin",,,,,
+"Anti D Rh 
+Injection
+750 units/ml
+C
+R
+Immunoglobulin",,,,,
+"Anti-Snake Serum (West 
+Injection
+1500 IU/ml
+B1
+NR
+African Polyvalent)",,,,,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+"Antirabies 
+Immunoglobulin",Injection,1000 IU/5 ml,B1,NR,
+Diphtheria Antitoxin,Infusion,(blank),(blank),R,
+Tetanus Immunoglobulin,Injection,250 IU/ml,M,R,
+Tetanus Immunoglobulin,Injection,5000 IU/amp,M,R,
+Tetanus Toxoid,Injection,40 IU (0.5 ml),M,NR,
+20.2.    Vaccines,,,,,
+Vaccines for specific groups of individuals,,,,,
+Meningococcal Vaccine,Injection,(blank),B1,NR,
+"Pneumococcal Conjugate 
+Vaccine 13 (PCV13)",Injection,(blank),(blank),NR,
+Rabies Vaccine,Injection,(blank),B1,NR,
+Tetanus Toxoid,Injection,40 IU (0.5 ml),M,NR,
+Tetanus Vaccine,Injection,40 IU/5 ml,M,NR,
+Yellow Fever Vaccine,Injection,(blank),PM,NR,
+Vaccines for universal immunisation,,,,,
+"Bacillus Calmette-Guerin 
+(BCG) Vaccine",Injection,(blank),PM,NR,
+"Five in One Vaccine 
+(Diphtheria, Pertussis, 
+Tetanus, Heamophilus 
+influenzae b and Hepatitis 
+B)",Injection,(blank),PM,NR,
+Hepatitis B Vaccine,Injection,(blank),PM,NR,
+Measles Vaccine,Injection,(blank),PM,NR,
+Poliomyelitis Vaccine,Oral Solution,(blank),PM,NR,
+Tetanus Vaccine,Injection,40 IU/5 ml,M,NR,
+Yellow Fever Vaccine,Injection,(blank),PM,NR,
+20.3.     Others,,,,,
+"Pegylated inteferon 
+Injection
+180 
+(blank)
+R
+alfa-2a
+microgram/
+ml",,,,,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+"Pegylated inteferon 
+alfa-2b","Powder and 
+solvent for 
+injection","50 
+microgram",(blank),R,
+"Pegylated inteferon 
+alfa-2b","Powder and 
+solvent for 
+injection","80 
+microgram",(blank),R,
+21.  Muscle relaxants and Cholinesterase Inhibitors,,,,,
+"Cyclobenzaprine
+Tablet
+(blank)
+(blank)
+R",,,,,
+"Tizanidine
+Tablet
+2 mg
+(blank)
+R",,,,,
+22.  Ophthalmological preparations,,,,,
+22.1.    Anti-allergic agents,,,,,
+"Sodium Cromoglycate 
+Eye Drops
+0.02
+B1
+NR",,,,,
+22.2.    Anti-infective agents,,,,,
+Chloramphenicol,"Ear, Eye Drops",0.5%,A,(blank),
+Chloramphenicol,Eye Ointment,1%,A,(blank),
+Ciprofloxacin,Eye Drops,0.3%,B2,R,
+"Tetracycline
+22.3.    Anti-inflammatory agents",Eye Ointment,1%,M,R,
+"Corticosteroid + 
+Antibiotic",Eye Drops,(blank),C,R,
+"Corticosteroid + 
+Antibiotic",Eye Ointment,(blank),C,R,
+,22.4.    Miotics and Drugs used in Glaucoma,,,,
+Acetazolamide,Injection,500 mg,C,R,
+Acetazolamide,Tablet,250 mg,C,R,
+Betaxolol,Eye Drops,0.5%,(blank),NR,
+Bimatoprost,Eye Drops,"300 
+microgram/
+ml",SM,NR,
+Latanoprost,Eye Drops,"50 
+microgram/
+ml",SM,NR,
+Levobunolol,Eye Drops,0.5%,(blank),NR,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Pilocarpine,Eye Drops,0.02,C,R,
+Pilocarpine,Eye Drops,0.04,C,R,
+Pilocarpine,Eye Drops,1%,C,R,
+Timolol Maleate,Eye Drops,0.5%,C,R,
+Travoprost,Eye Drops,"40 
+microgram/
+ml",(blank),NR,
+22.5.    Mydriatics and Cycloplegics,,,,,
+"Phenylephrine
+Eye Drops
+10%
+SM
+NR",,,,,
+"Phenylephrine
+Eye Drops
+2.5%
+SM
+NR
+22.6.    Ophthalmic Drugs",,,,,
+"Fluorescein 
+Eye Drops
+(blank)
+C
+NR
+22.7.    Others",,,,,
+Brimornidine,(blank),1 mg/ml,(blank),NR,
+Brimornidine,(blank),1.5 mg/ml,(blank),NR,
+Brinzolamide,Eye Drops,10 mg/ml,(blank),NR,
+Dorzolamide,Eye Drops,20 mg/ml,(blank),NR,
+Hydroxymethyl Cellulose,Eye Drops,0.3%,(blank),R,
+Polyvinyl Alcohol,Eye Drops,0.014,(blank),R,
+Polyvinyl Alcohol,Eye Drops,0.02,(blank),R,
+Sodium Chloride,Solution,0.009,A,R,
+22.8.    Topical Anaesthetics,,,,,
+"Proparacaine 
+Hydrochloride",Eye Drops,0.5%,(blank),R,
+Tetracaine Hydrochloride,Eye Drops,0.5%,(blank),R,
+23.  Other specialist Drugs,,,,,
+23.1.    Drugs for Dentistry,,,,,
+"Chlorhexidine
+Mouthwash
+0.12%
+A
+R",,,,,
+"Lidocaine
+Gel
+0.02
+M
+R",,,,,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Lidocaine + Adrenaline,Cartridge,"20 mg/
+ml + [1:80 
+000/1:100 
+000]",B2,R,
+Miconazole,Oral Gel,24 mg/ml,B1,R,
+Nystatin,"Oral 
+Suspension",100 000 IU,B1,R,
+Povidone Iodine,"Mouthwash
+23.2.    Drugs for Ear, Nose and Throat",1%,A,R,
+Adrenaline (Epinephrine),As nose pack,"1 mg /ml 
+(1:1000)",A,R,
+Ciprofloxacin,Ear Drops,0.3%,B2,R,
+Ephedrine Hydrochloride,Nasal Drops,0.5%,A,R,
+Ephedrine Hydrochloride,Nasal Drops,1%,A,R,
+Gentamicin,Ear Drops,0.3%,B1,R,
+"Neomycin + 
+Hydrocortisone",Nasal Drops,0.5% + 1.5%,(blank),R,
+Oxymetazoline,Nasal Spray,0.3%,(blank),R,
+Sodium Chloride,Nasal Drops,0.009,A,R,
+Xylometazoline,Nasal Spray,0.001,(blank),R,
+Xylometazoline,Nasal Spray,0.05%,(blank),R,
+23.3.     Drugs for HIV/AIDS,,,,,
+Abacavir + Lamivudine,Tablet,"60 mg + 30 
+mg",(blank),NR,
+Abacavir + Lamivudine,Tablet,"600 mg + 300 
+mg",(blank),NR,
+Atazanavir + Ritonavir,Tablet,"300 mg + 100 
+mg",(blank),NR,
+Efavirenz,Tablet,200 mg,PM,NR,
+Efavirenz,Tablet,50 mg,PM,NR,
+Efavirenz,Tablet,600 mg,PM,NR,
+Emtricitabine + Tenofovir,Tablet,"200 mg + 300 
+mg",(blank),NR,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+"Emtricitabine + Tenofovir 
++ Efavirenz",Tablet,"200 mg + 300 
+mg + 600 mg",(blank),NR,
+Lamivudine,Tablet,150 mg,PM,NR,
+Lamivudine + Tenofovir,Tablet,"150 mg + 300 
+mg",(blank),NR,
+"Lamivudine + Zidovudine 
++ Nevirapine",Tablet,"150 mg + 300 
+mg + 200 mg",(blank),NR,
+Lopinavir + Ritonavir,Tablet,"100 mg + 
+25 mg",PM,NR,
+Lopinavir + Ritonavir,Tablet,"200 mg + 
+50 mg",PM,NR,
+Nevirapine,"Dispersible 
+Tablet",50 mg,PM,NR,
+Nevirapine,Suspension,10 mg/ml,PM,NR,
+Nevirapine,Tablet,200 mg,PM,NR,
+"Tenofovir + Lamivudine + 
+Efavirenz",Tablet,"300 mg + 300 
+mg + 600 mg",(blank),NR,
+"Tenofovir Disoproxil 
+Fumarate",Tablet,300 mg,PM,NR,
+Zidovudine,Syrup,10 mg/ml,PM,NR,
+Zidovudine,Tablet,300 mg,PM,NR,
+Zidovudine + Lamivudine,Tablet,"300 mg + 150 
+mg",PM,NR,
+Zidovudine + Lamivudine,Tablet,"60 mg + 30 
+mg",PM,NR,
+"Zidovudine + Lamivudine 
++ Efavirenz",Tablet,"300 mg + 150 
+mg + 600 mg",(blank),NR,
+23.4.    Drugs for Urology,,,,,
+Alfuzocin,Tablet,(blank),(blank),R,
+Finasteride,Tablet,5 mg,SM,R,
+Prostagladin E1,Tablet,(blank),(blank),R,
+Sildenafil Citrate,Tablet,(blank),(blank),R,
+Tadalafil,Tablet,(blank),(blank),R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Tamsulosin,Capsule,"400 
+microgram",SM,R,
+Terazosin,Tablet,2 mg,SM,R,
+Terazosin,Tablet,5 mg,SM,R,
+Verdanafil,Tablet,(blank),(blank),R,
+23.5.    Drugs used in Orthopaedics,,,,,
+Alendronate,Injection,(blank),(blank),R,
+Calcitonin,(blank),(blank),(blank),R,
+Denosumab,Injection,60 mg/ml,(blank),R,
+Denosumab,Injection,70 mg/ml,(blank),R,
+"Intravenous Immunoglob-
+ulin (IVIg)",Injection,(blank),(blank),R,
+Pamidronate,Injection,15 mg/ml,(blank),R,
+Pamidronate,Injection,6 mg/ml,(blank),R,
+Phosphocitrate,(blank),(blank),(blank),R,
+Probenecid,(blank),(blank),(blank),R,
+Strontium Ranelate,"Granule 
+Sachets",2 g,(blank),R,
+Teriparatide,(blank),(blank),(blank),R,
+"Triamcinolone
+23.6.    Nucleoside analogues",Injection,(blank),(blank),R,
+Entecavir,Tablet,"50 
+microgram/
+ml",(blank),R,
+Entecavir,Tablet,"500 
+microgram",(blank),R,
+Ribavirin,Tablet,200 mg,(blank),R,
+Ribavirin,Tablet,400 mg,(blank),R,
+,24.  Oxytocics and Anti-oxytocics,,,,
+"24.1.    Anti-oxytocics
+Salbutamol",Tablet,4 mg,M,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+"Salbutamol
+Injection
+500 
+B2
+R
+microgram/
+ml",,,,,
+24.2.    Oxytocics,,,,,
+Ergometrine,Injection,"200 
+microgram/
+ml",M,R,
+Ergometrine,Injection,"500 
+microgram/
+ml",M,R,
+Ergometrine,Tablet,"200 
+microgram",M,R,
+Ergometrine,Tablet,"500 
+microgram",M,R,
+Mifepristone,Tablet,"600 
+microgram",SM,NR,
+Misoprostol,Tablet,"100 
+microgram",PM,NR,
+Misoprostol,Tablet,"200 
+microgram",PM,NR,
+Misoprostol,Tablet,"25 
+microgram",M,NR,
+Misoprostol,Tablet,"50 
+microgram",M,NR,
+Misoprostol,Vaginal Tablet,"200 
+microgram",PM,R,
+Oxytocin,Injection,10 units/ml,M,R,
+Oxytocin,Injection,5 units/ml,M,R,
+"25.  Pre-operative medications and Sedation for 
+short-term procedures",,,,,
+Atropine,Injection,0.6 mg/ml,B2,R,
+Diazepam,Injection,5 mg/ml,B1,R,
+Lorazepam,Injection,4 mg/ml,D,R,
+Lorazepam,Tablet,1 mg,B2,R,
+Lorazepam,Tablet,2 mg,B2,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+"Midazolam
+Injection
+1 mg/ml
+C
+R",,,,,
+"Midazolam
+Tablet
+15 mg
+B2
+R",,,,,
+26.  Psychotherapeutic Drugs,,,,,
+Alprazolam,Tablet,(blank),(blank),R,
+Amitriptyline,Tablet,10 mg,B1,R,
+Amitriptyline,Tablet,25 mg,B2,R,
+Amitriptyline,Tablet,50 mg,B1,R,
+Atomoxetine,Tablet,(blank),(blank),R,
+Benzatropine,Injection,1 mg/ml,C,R,
+Benzatropine,Tablet,2 mg,C,R,
+Biperiden,Injection,5 mg/ml,C,NR,
+Biperiden,Tablet,2 mg,C,NR,
+Chloral Hydrate,Oral Solution,28.66 mg/ml,(blank),R,
+Chloral Hydrate,Tablet,707 mg,(blank),R,
+"Chlordiazepoxide 
+Hydrochloride",Tablet,5 mg,C,R,
+Chlorpromazine,Injection,25 mg/ml,B2,R,
+Chlorpromazine,Tablet,100 mg,B1,R,
+Chlorpromazine,Tablet,25 mg,B1,R,
+Chlorpromazine,Tablet,50 mg,B1,R,
+Citalopram,Tablet,10 mg,(blank),R,
+Citalopram,Tablet,20 mg,(blank),R,
+Citalopram,Tablet,40 mg,(blank),R,
+Diazepam,Injection,5 mg/ml,B1,R,
+Diazepam,Tablet,10 mg,M,R,
+Diazepam,Tablet,5 mg,M,R,
+Duloxetine Hydrochloride,Tablet,20 mg,(blank),R,
+Duloxetine Hydrochloride,Tablet,30 mg,(blank),R,
+Fluoxetine,Capsule,20 mg,C,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Flupenthixol Decanoate,Injection,20 mg/ml,(blank),R,
+Fluphenazine Decanoate,Injection,25 mg/ml,SM,R,
+Haloperidol,Injection,5 mg,SM,R,
+Haloperidol,Tablet,10 mg,C,R,
+Haloperidol,Tablet,5 mg,C,R,
+Imipramine,Tablet,25 mg,C,R,
+Lamotrigine,Tablet,100 mg,(blank),R,
+Lamotrigine,Tablet,25 mg,(blank),R,
+Lamotrigine,Tablet,50 mg,(blank),R,
+Lithium Carbonate,"Tablet (slow 
+release)",200 mg,SM,R,
+Lithium Carbonate,"Tablet (slow 
+release)",500 mg,SM,R,
+Lorazepam,Tablet,2 mg,B2,R,
+Melatonin,"Tablet 
+(Modified 
+release)",2 mg,(blank),R,
+"Methylphenidate 
+Hydrochloride",Tablet,5 mg,SM,R,
+Olanzapine,Injection,5 mg/ml,SM,R,
+Olanzapine,Tablet,10 mg,SM,R,
+Olanzapine,Tablet,5 mg,SM,R,
+Risperidone,Tablet,1 mg,SM,R,
+Risperidone,Tablet,2 mg,SM,R,
+Risperidone,Tablet,"500 
+microgram",SM,R,
+Sertraline,Tablet,100 mg,SM,R,
+Sertraline,Tablet,50 mg,SM,R,
+Sodium Valproate,Tablet,200 mg,D,R,
+Triazolam,Tablet,(blank),(blank),R,
+Trihexyphenidyl,Oral Solution,1 mg/ml,C,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+"Trihexyphenidyl
+Tablet
+2 mg
+C
+R",,,,,
+"Trihexyphenidyl
+Tablet
+5 mg
+C
+R",,,,,
+"27.  Solutions correcting water and electrolyte 
+abnormalities",,,,,
+"27.1.     Oral preparations
+Mist. Potassium Citrate
+Solution
+(blank)
+(blank)
+R",,,,,
+"Oral Rehydration Salts
+Sachet
+(blank)
+A
+R",,,,,
+"Potassium Chloride 
+Tablet 
+600 mg
+B1
+R
+(Enteric 
+Coated)
+27.2.     Parenteral solutions",,,,,
+Badoe's Solution,Injection,1000 ml,B1,R,
+Calcium Gluconate,Injection,"10% (100 
+mg/ml)",B2,R,
+"Cholera Replacement 
+Fluid",Injection,(5:4:1),B1,R,
+Darrow's Solution,Half-strenght,250 ml,B1,R,
+Dextrose,Infusion,10% (250 ml),B1,R,
+Dextrose,Infusion,10% (500 ml),B1,R,
+Dextrose,Infusion,20% (250 ml),C,R,
+Dextrose,Infusion,5% (250 ml),M,R,
+Dextrose,Infusion,5% (500 ml),M,R,
+Dextrose,Infusion,50% (50 ml),B2,R,
+"Dextrose in Sodium 
+Chloride",Infusion,"10% in 0.18% 
+(250 ml)",C,R,
+"Dextrose in Sodium 
+Chloride",Infusion,"4.3% in 
+0.18% (250 
+ml)",M,R,
+"Dextrose in Sodium 
+Chloride",Infusion,"5% in 0.9% 
+(500 ml)",M,R,
+Potassium Chloride,Injection,"20 mEq/10 
+ml",C,R,
+Ringers Lactate,Infusion,500 ml,M,R,
+"Name of Drug
+Formulation
+Strength
+Level 
+NHIS 
+Code
+of Care
+Status",,,,,
+Sodium Bicarbonate,Injection,0.084,C,R,
+Sodium Chloride,Injection,"0.45% (250 
+ml)",B1,R,
+Sodium Chloride,Injection,"0.9% (250 
+ml)",M,NR,
+Sodium Chloride,Injection,"0.9% (500 
+ml)",M,R,
+"Sodium Chloride + 
+Potassium Chloride",Injection,"0.9% + 20 
+mMol (500 
+ml)",SM,NR,
+27.3.    Miscellaneous,,,,,
+"Water for Injection
+Injection
+(blank)
+A
+R",,,,,
+28.  Vitamins and Minerals,,,,,
+Calciferol,Injection,(blank),D,R,
+Calciferol,Tablet,10 000 units,D,R,
+Calcium,Tablet,(blank),M,R,
+Calcium + Vitamin D,Tablet,"97 mg + 10 
+microgram",M,R,
+Calcium Gluconate,Injection,100 mg/ml,B2,R,
+Multivitamin,Syrup,(blank),A,R,
+Multivitamin,Tablet,(blank),A,R,
+Pyridoxine,Tablet,100 mg,B2,R,
+Pyridoxine,Tablet,50 mg,B2,R,
+Retinol,Capsule,100 000 IU,A,R,
+Retinol,Capsule,200 000 IU,A,R,
+Thiamine,Injection,100 mg,C,R,
+Thiamine,Tablet,100 mg,C,R,
+Thiamine,Tablet,25 mg,C,R,
+Thiamine,Tablet,50 mg,C,R,
+Vitamin B-Compound,Injection,"(High 
+potency)",(blank),R,
+Vitamin C,Tablet,(blank),(blank),R,

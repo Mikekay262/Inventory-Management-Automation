@@ -1,0 +1,1370 @@
+Name of Drug,Formulation,Strength,Level of Care,NHIS Status,eml_drug_name_and_formulation
+adrenaline,Injection,"1 mg /ml 
+(1:1000)",M,R,adrenaline injection
+adrenaline,Injection,"100 
+microgram/ 
+ml (1:10 000)",M,R,adrenaline injection
+atropine,Injection,0.6 mg/ ml,B2,R,atropine injection
+atropine,Injection,1 mg/ ml,B2,R,atropine injection
+bupivacaine,Injection,0.25% (plain),C,R,bupivacaine injection
+bupivacaine,Injection,0.5% (heavy),C,R,bupivacaine injection
+bupivacaine,Injection,5 mg/ml,C,NR,bupivacaine injection
+bupivacaine + adrenaline,Injection,"0.25% + 
+1:200 000",C,NR,bupivacaine + adrenaline injection
+bupivacaine + adrenaline,Injection,"0.5% + 1:200 
+000",C,NR,bupivacaine + adrenaline injection
+diazepam,Injection,5 mg/ ml,M,R,diazepam injection
+ephedrine hydrochloride,Injection,50 mg,B2,R,ephedrine hydrochloride injection
+fentanyl,Injection,"50 
+microgram",C,NR,fentanyl injection
+intralipid,Infusion,20%,(blank),NR,intralipid infusion
+ketamine,Injection,10 mg/ml,B2,R,ketamine injection
+ketamine,Injection,50 mg/ml,B2,R,ketamine injection
+lidocaine,Injection,2%,M,R,lidocaine injection
+midazolam,Injection,5 mg/ml,C,R,midazolam injection
+midazolam,Tablet,15 mg,B2,R,midazolam tablet
+nitrous oxide: oxygen,Inhalation,50-50,(blank),NR,nitrous oxide: oxygen inhalation
+oxygen,Inhalation,(blank),M,NR,oxygen inhalation
+ropivacaine,Injection,7.5 mg/ml,C,R,ropivacaine injection
+thiopentone sodium,Injection,1 g,C,NR,thiopentone sodium injection
+lidocaine,Cream,2%,M,R,lidocaine cream
+lidocaine,Gel,2%,M,R,lidocaine gel
+lidocaine,Injection,1%,M,R,lidocaine injection
+lidocaine,Injection,2%,M,R,lidocaine injection
+lidocaine,Injection,20 mg/ml,B2,R,lidocaine injection
+lidocaine,Spray,10%,M,R,lidocaine spray
+lidocaine + adrenaline,Injection,"10 mg/ml + 5 
+microgram/
+ml",B2,R,lidocaine + adrenaline injection
+lidocaine + adrenaline,Injection,"20 mg/ml + 5 
+microgram/
+ml",B2,R,lidocaine + adrenaline injection
+allupurinol,Tablet,100 mg,B1,R,allupurinol tablet
+allupurinol,Tablet,300 mg,B1,R,allupurinol tablet
+colchicine,Tablet,(blank),(blank),R,colchicine tablet
+aspirin,Tablet,300 mg,A,R,aspirin tablet
+celecoxib,Tablet,100 mg,(blank),R,celecoxib tablet
+celecoxib,Tablet,200 mg,(blank),R,celecoxib tablet
+diclofenac,Capsule,75 mg,B1,R,diclofenac capsule
+diclofenac,Gel,1%,M,R,diclofenac gel
+diclofenac,Injection,25 mg/ml,B1,R,diclofenac injection
+diclofenac,Spray,(blank),M,R,diclofenac spray
+diclofenac,Suppository,100 mg,M,R,diclofenac suppository
+diclofenac,Suppository,50 mg,A,R,diclofenac suppository
+diclofenac,Tablet,50 mg,A,R,diclofenac tablet
+ibuprofen,Suspension,100 mg/5 ml,A,R,ibuprofen suspension
+ibuprofen,Tablet,200 mg,A,R,ibuprofen tablet
+ibuprofen,Tablet,400 mg,A,R,ibuprofen tablet
+indomethacin,Tablet,25 mg,(blank),R,indomethacin tablet
+indomethacin,Tablet,75 mg,(blank),R,indomethacin tablet
+mefenamic acid,Tablet,500 mg,(blank),R,mefenamic acid tablet
+naproxen,Tablet ,500 mg,(blank),R,naproxen tablet
+paracetamol,Injection,10 mg/ml,M,R,paracetamol injection
+paracetamol,Suppository,125 mg,M,R,paracetamol suppository
+paracetamol,Suppository,250 mg,A,R,paracetamol suppository
+paracetamol,Suppository,500 mg,A,R,paracetamol suppository
+paracetamol,Syrup,120 mg/5 ml,M,R,paracetamol syrup
+paracetamol,Tablet,500 mg,M,R,paracetamol tablet
+codeine,Tablet,15 mg,B2,R,codeine tablet
+codeine,Tablet,60 mg,B2,R,codeine tablet
+fentanyl,"Transdermal 
+patch",(blank),B2,NR,"fentanyl transdermal 
+patch"
+morphine sulphate,Injection,10 mg/ml,B2,R,morphine sulphate injection
+morphine sulphate,"Injection 
+(preserva-
+tive-free)",10 mg/ml,SM,R,"morphine sulphate injection 
+(preserva-
+tive-free)"
+morphine sulphate,Tablet,10 mg,B2,R,morphine sulphate tablet
+morphine sulphate,"Tablet (slow 
+release)",30 mg,B2,R,"morphine sulphate tablet (slow 
+release)"
+pethidine,Injection,50 mg/ml,B2,R,pethidine injection
+tramadol hydrochloride,Capsule,50 mg,B2,NR,tramadol hydrochloride capsule
+"tramadol hydrochloride
+2.4    others",Injection,50 mg/ml,B2,NR,"tramadol hydrochloride
+2.4    others injection"
+abatacept,Injection,125 mg/ml,(blank),R,abatacept injection
+adalimumab,Injection,50 mg/ml,(blank),R,adalimumab injection
+anakinra,Injection,150 mg/ml,(blank),R,anakinra injection
+azathioprine,Injection,25 mg,(blank),R,azathioprine injection
+azathioprine,Tablet,25 mg,(blank),R,azathioprine tablet
+belimumab,Infusion,120 mg,(blank),R,belimumab infusion
+belimumab,Infusion,400 mg,(blank),R,belimumab infusion
+celecoxib,Tablet,200 mg,(blank),R,celecoxib tablet
+certolizumab,Tablet,200 mg/ml,(blank),R,certolizumab tablet
+clonidine,Tablet,(blank),(blank),R,clonidine tablet
+cyclophosphamide,Injection,200 mg,D,NR,cyclophosphamide injection
+cyclophosphamide,Injection,500 mg,D,R,cyclophosphamide injection
+cyclophosphamide,Tablet,50 mg,D,NR,cyclophosphamide tablet
+cycloserine,Capsule,250 mg,(blank),R,cycloserine capsule
+cyclosporine,Injection,50 mg/ml,(blank),R,cyclosporine injection
+cyclosporine,Oral Solution,100 mg/ml,(blank),R,cyclosporine oral solution
+cyclosporine,Tablet,10 mg,(blank),R,cyclosporine tablet
+cyclosporine,Tablet,25 mg,(blank),R,cyclosporine tablet
+d-penicillamine,Tablet,125 mg,(blank),R,d-penicillamine tablet
+etanercept,Injection,50 mg/ml,(blank),R,etanercept injection
+gabapentin,Tablet,(blank),(blank),R,gabapentin tablet
+golimumab,Injection,100 mg/ml,(blank),R,golimumab injection
+hydroxychloroquine,Tablet,200 mg,(blank),R,hydroxychloroquine tablet
+infliximab,Injection,100 mg,(blank),R,infliximab injection
+leflunomide,Tablet,10 mg,(blank),R,leflunomide tablet
+leflunomide,Tablet,100 mg,(blank),R,leflunomide tablet
+leflunomide,Tablet,15 mg,(blank),R,leflunomide tablet
+methocarbamol,Tablet,750 mg,(blank),R,methocarbamol tablet
+methotrexate,Tablet,2.5 mg,D,R,methotrexate tablet
+methotrexate,Tablet,25 mg/ml,D,R,methotrexate tablet
+methylprednisolone,Infusion,(blank),(blank),R,methylprednisolone infusion
+minocycline,"Capsule 
+(Modified-re-
+lease)",100 mg,(blank),R,"minocycline capsule 
+(modified-re-
+lease)"
+mycophenolate mofetil,Capsule,250 mg,(blank),R,mycophenolate mofetil capsule
+mycophenolate mofetil,Injection,500 mg,(blank),R,mycophenolate mofetil injection
+mycophenolate mofetil,Suspension,200 mg/ml,(blank),R,mycophenolate mofetil suspension
+pregabalin,Tablet,(blank),(blank),R,pregabalin tablet
+rituximab,Injection,10 mg/ml,(blank),R,rituximab injection
+rituximab,Injection,"119.66 mg/
+ml",(blank),R,rituximab injection
+sodium aurothiomalate,Injection,100 mg/ml,(blank),R,sodium aurothiomalate injection
+sodium aurothiomalate,Injection,20 mg/ml,(blank),R,sodium aurothiomalate injection
+sulfasalazine,Suspension,50 mg/ml,(blank),R,sulfasalazine suspension
+sulfasalazine,Tablet,500 mg,(blank),R,sulfasalazine tablet
+tacrolimus,Injection,5 mg/ml,(blank),R,tacrolimus injection
+tacrolimus,Tablet,2 mg,(blank),R,tacrolimus tablet
+tacrolimus,Tablet,5 mg,(blank),R,tacrolimus tablet
+tacrolimus,Tablet,"500 
+microgram",(blank),R,tacrolimus tablet
+tocilizumab,Injection,180 mg/ml,(blank),R,tocilizumab injection
+tocilizumab,Injection,20 mg/ml,(blank),R,tocilizumab injection
+tofacitinib,Tablet,11 mg,(blank),R,tofacitinib tablet
+tofacitinib,Tablet,5 mg,(blank),R,tofacitinib tablet
+adrenaline,Injection,"1 mg /ml 
+(1:1000)",M,R,adrenaline injection
+cetirizine,Tablet,10 mg,A,R,cetirizine tablet
+chlorpheniramine,Syrup,3 mg/5 ml,A,R,chlorpheniramine syrup
+chlorpheniramine,Tablet,4 mg,A,R,chlorpheniramine tablet
+dexamethasone,Injection,4 mg/ml,C,R,dexamethasone injection
+dexamethasone,Tablet,"500 
+microgram",D,R,dexamethasone tablet
+hydrocortisone,Cream,0.50%,B1,R,hydrocortisone cream
+hydrocortisone,Cream,1%,B1,R,hydrocortisone cream
+hydrocortisone,Injection,100 mg,M,R,hydrocortisone injection
+hydrocortisone,Tablet,10 mg,C,NR,hydrocortisone tablet
+hydrocortisone,Tablet,20 mg,SM,NR,hydrocortisone tablet
+prednisolone,Tablet,5 mg,B1,R,prednisolone tablet
+"promethazine 
+hydrochloride",Elixir,6 mg/5 ml,A,R,"promethazine 
+hydrochloride elixir"
+"promethazine 
+hydrochloride",Injection,25 mg/ml,B1,R,"promethazine 
+hydrochloride injection"
+"promethazine 
+hydrochloride",Tablet,25 mg,A,R,"promethazine 
+hydrochloride tablet"
+capreomycin,Tablet,(blank),(blank),NR,capreomycin tablet
+cycloserine,Tablet,(blank),(blank),NR,cycloserine tablet
+ethambutol,Tablet,100 mg,PM,NR,ethambutol tablet
+ethambutol,Tablet,400 mg,PM,NR,ethambutol tablet
+ethionamide,Tablet,(blank),(blank),NR,ethionamide tablet
+isoniazid,Tablet,100 mg,PM,NR,isoniazid tablet
+isoniazid,Tablet,300 mg,PM,NR,isoniazid tablet
+kanamycin,Tablet,(blank),(blank),NR,kanamycin tablet
+levofloxacin,Tablet,(blank),(blank),NR,levofloxacin tablet
+para-aminosalicylic acid,Tablet,(blank),(blank),NR,para-aminosalicylic acid tablet
+prothionamide,Tablet,(blank),(blank),NR,prothionamide tablet
+pyrazinamide,Tablet,150 mg,PM,NR,pyrazinamide tablet
+pyrazinamide,Tablet,400 mg,PM,R,pyrazinamide tablet
+pyridoxine,Tablet,100 mg,B1,R,pyridoxine tablet
+pyridoxine,Tablet,50 mg,B1,R,pyridoxine tablet
+rifampicin,Tablet,300 mg,PM,NR,rifampicin tablet
+rifampicin + isoniazid,Tablet,"150 mg + 
+75 mg",PM,NR,rifampicin + isoniazid tablet
+rifampicin + isoniazid,Tablet,"60 mg + 30 
+mg",PM,NR,rifampicin + isoniazid tablet
+"rifampicin + isoniazid + 
+ethambutol",Tablet,"150 mg + 75 
+mg + 275 mg",PM,NR,"rifampicin + isoniazid + 
+ethambutol tablet"
+"rifampicin + isoniazid + 
+pyrazinamide",Tablet,"60 mg + 30 
+mg + 150 mg",PM,NR,"rifampicin + isoniazid + 
+pyrazinamide tablet"
+"rifampicin + isoniazid 
++ pyrazinamide + 
+ethambutol",Tablet,"150 mg + 75 
+mg + 400 mg 
++ 275 mg",PM,NR,"rifampicin + isoniazid 
++ pyrazinamide + 
+ethambutol tablet"
+streptomycin sulphate,Injection,1 g,PM,NR,streptomycin sulphate injection
+azithromycin,Capsule,250 mg,C,R,azithromycin capsule
+azithromycin,Injection,(blank),C,R,azithromycin injection
+azithromycin,Suspension,200 mg/ml,C,R,azithromycin suspension
+cefixime,Suspension,20 mg/ml,(blank),R,cefixime suspension
+cefixime,Tablet,200 mg,(blank),R,cefixime tablet
+cefotaxime,Injecton,1 g,C,R,cefotaxime injecton
+cefotaxime,Injecton,500 mg,C,R,cefotaxime injecton
+ceftriaxone,Injecton,1 g,C,R,ceftriaxone injecton
+ceftriaxone,Injecton,2 g,D,R,ceftriaxone injecton
+ceftriaxone,Injecton,250 mg,C,R,ceftriaxone injecton
+cefuroxime,Injection,1.5 g,B2,R,cefuroxime injection
+cefuroxime,Injection,750 mg,B2,R,cefuroxime injection
+cefuroxime,Suspension,125 mg/5 ml,B2,R,cefuroxime suspension
+cefuroxime,Tablet,125 mg,B2,R,cefuroxime tablet
+cefuroxime,Tablet,250 mg,B2,R,cefuroxime tablet
+chloramphenicol,Injection,1 g,C,R,chloramphenicol injection
+chloramphenicol,Injection,(blank),C,R,chloramphenicol injection
+ciprofloxacin,Infusion,2 mg/ml,B2,R,ciprofloxacin infusion
+ciprofloxacin,Tablet,250 mg,B1,R,ciprofloxacin tablet
+ciprofloxacin,Tablet,500 mg,B1,R,ciprofloxacin tablet
+clarithromycin,Capsule,250 mg,C,R,clarithromycin capsule
+clarithromycin,Capsule,500 mg,C,R,clarithromycin capsule
+clarithromycin,Suspension,125 mg/ml,C,R,clarithromycin suspension
+clindamycin,Capsule,150 mg,C,R,clindamycin capsule
+clindamycin,Cream,2%,M,R,clindamycin cream
+clindamycin,Gel,1%,M,R,clindamycin gel
+clindamycin,Injection,150 mg/ml,C,R,clindamycin injection
+clindamycin,Suspension,75 mg/5 ml,C,R,clindamycin suspension
+co-trimoxazole,Suspension,"(200 mg + 40 
+mg)/5 ml",A,R,co-trimoxazole suspension
+co-trimoxazole,Tablet,"400 mg + 
+80 mg",A,R,co-trimoxazole tablet
+doxycycline,Tablet,100 mg,B1,R,doxycycline tablet
+erythromycin,Syrup,125 mg/5 ml,B1,R,erythromycin syrup
+erythromycin,Tablet,250 mg,B1,R,erythromycin tablet
+gentamicin,Injection,40 mg/ml,C,R,gentamicin injection
+levofloxacin,Injection,(blank),(blank),NR,levofloxacin injection
+levofloxacin,Tablet,(blank),(blank),NR,levofloxacin tablet
+nitrofurantoin,Tablet,100 mg,B2,R,nitrofurantoin tablet
+norfloxacin,Injection,(blank),(blank),R,norfloxacin injection
+vancomycin,Injection,500 mg,(blank),R,vancomycin injection
+amoxicillin,Capsule,250 mg,A,R,amoxicillin capsule
+amoxicillin,Capsule,500 mg,A,R,amoxicillin capsule
+amoxicillin,Suspension,125 mg/5 ml,A,R,amoxicillin suspension
+"amoxicillin + clavulanic 
+acid",Injection,"500 mg + 100 
+mg",B2,R,"amoxicillin + clavulanic 
+acid injection"
+"amoxicillin + clavulanic 
+acid",Suspension,"250 mg + 
+62 mg",B1,R,"amoxicillin + clavulanic 
+acid suspension"
+"amoxicillin + clavulanic 
+acid",Suspension,"400 mg + 
+57 mg",B1,R,"amoxicillin + clavulanic 
+acid suspension"
+"amoxicillin + clavulanic 
+acid",Tablet,"250 mg + 125 
+mg",B1,R,"amoxicillin + clavulanic 
+acid tablet"
+"amoxicillin + clavulanic 
+acid",Tablet,"500 mg + 125 
+mg",B1,R,"amoxicillin + clavulanic 
+acid tablet"
+ampicillin,Injection,500 mg,B1,R,ampicillin injection
+"benzathine 
+benzylpenicillin",Injection,1.2 MU,B2,NR,"benzathine 
+benzylpenicillin injection"
+"benzathine 
+benzylpenicillin",Injection,2.4 MU,B2,NR,"benzathine 
+benzylpenicillin injection"
+benzyl penicillin,Injection,1 MU,B1,R,benzyl penicillin injection
+benzyl penicillin,Injection,5 MU,B1,R,benzyl penicillin injection
+cloxacillin,Injection,250 mg,B1,R,cloxacillin injection
+cloxacillin,Injection,500 mg,B1,R,cloxacillin injection
+flucloxacillin,Capsule,250 mg,B1,R,flucloxacillin capsule
+flucloxacillin,Suspension,125 mg/5 ml,B1,R,flucloxacillin suspension
+phenoxymethyl penicillin,Tablet,250 mg,B1,R,phenoxymethyl penicillin tablet
+tetracycline,Capsule,250mg,B1,R,tetracycline capsule
+fluconazole,Tablet,50 mg,B2,R,fluconazole tablet
+griseofulvin,Tablet,125 mg,B1,R,griseofulvin tablet
+griseofulvin,Tablet,500 mg,B1,R,griseofulvin tablet
+itraconazole,Tablet,100 mg,D,R,itraconazole tablet
+miconazole,Oral Gel,20 mg/g,B1,R,miconazole oral gel
+nystatin,Suspension,"100 000 
+IU/ml",B2,R,nystatin suspension
+terbinafine hydrochloride,Tablet,250mg,D,R,terbinafine hydrochloride tablet
+praziquantel,Tablet,600mg,B1,R,praziquantel tablet
+albendazole,Syrup,100 mg/5 ml,A,R,albendazole syrup
+albendazole,Tablet,200 mg,A,R,albendazole tablet
+albendazole,Tablet,400 mg,A,R,albendazole tablet
+mebendazole,Tablet,100 mg,A,R,mebendazole tablet
+mebendazole,Tablet,500 mg,A,R,mebendazole tablet
+niclosamide,Tablet,500 mg,B1,R,niclosamide tablet
+tiabendazole,Suspension,50 mg/ml,B1,R,tiabendazole suspension
+tiabendazole,Tablet,500 mg,B1,R,tiabendazole tablet
+diloxanide furoate,Suspension,(blank),(blank),R,diloxanide furoate suspension
+diloxanide furoate,Tablet,(blank),(blank),R,diloxanide furoate tablet
+metronidazole,Injection,5 mg/ml,B1,R,metronidazole injection
+metronidazole,Suppository,125 mg,B2,R,metronidazole suppository
+metronidazole,Suppository,500 mg,B2,R,metronidazole suppository
+metronidazole,Suspension,100 mg/5 ml,A,R,metronidazole suspension
+metronidazole,Suspension,200 mg/5 ml,A,R,metronidazole suspension
+metronidazole,Tablet,200 mg,A,R,metronidazole tablet
+metronidazole,Tablet,400 mg,A,R,metronidazole tablet
+paromomycin,Suspension,(blank),(blank),R,paromomycin suspension
+paromomycin,Tablet,(blank),(blank),R,paromomycin tablet
+secnidazole,Tablet,500 mg,B2,R,secnidazole tablet
+tinidazole,Suspension,(blank),B2,R,tinidazole suspension
+tinidazole,Tablet,500 mg,B2,R,tinidazole tablet
+"artemether + 
+lumefantrine","Dispersible 
+Tablet","20 mg + 120 
+mg",A,R,"artemether + 
+lumefantrine dispersible 
+tablet"
+"artemether + 
+lumefantrine",Tablet,"20 mg + 120 
+mg",A,R,"artemether + 
+lumefantrine tablet"
+artesunate,Injection,"60 mg (as 
+Anhydrous 
+Aretsunic 
+Acid) + 5% 
+Sodium 
+Bicarbonate 
+Solution for 
+reconstitution",B2,R,artesunate injection
+artesunate,Suppository,200 mg,A,R,artesunate suppository
+artesunate,Suppository,50 mg,A,R,artesunate suppository
+"artesunate + 
+amodiaquine","Granular 
+Powder","25 mg + 75 
+mg",A,R,"artesunate + 
+amodiaquine granular 
+powder"
+"artesunate + 
+amodiaquine",Tablet,"100 mg + 270 
+mg",A,R,"artesunate + 
+amodiaquine tablet"
+"artesunate + 
+amodiaquine",Tablet,"25 mg + 67.5 
+mg",A,R,"artesunate + 
+amodiaquine tablet"
+"artesunate + 
+amodiaquine",Tablet,"25 mg + 75 
+mg",A,R,"artesunate + 
+amodiaquine tablet"
+"artesunate + 
+amodiaquine",Tablet,"50 mg + 135 
+mg",A,R,"artesunate + 
+amodiaquine tablet"
+"artesunate + 
+amodiaquine",Tablet,"50 mg + 150 
+mg",A,R,"artesunate + 
+amodiaquine tablet"
+arthemether,Injection,40 mg/ml,B2,R,arthemether injection
+arthemether,Injection,80 mg/ml,B2,R,arthemether injection
+"dihydroartemisinin + 
+piperaquine",Tablet,"40 mg + 320 
+mg",A,R,"dihydroartemisinin + 
+piperaquine tablet"
+quinine,Injection,"300 mg/ml in 
+2 mls",B2,R,quinine injection
+quinine,Syrup,20 mg/ml,B1,R,quinine syrup
+quinine,Tablet,300 mg,M,R,quinine tablet
+quinine + clindamycin,Tablet,(blank),(blank),R,quinine + clindamycin tablet
+sulphadoxine + pyrimethamine,Tablet,500mg+25mg,PM,NR,sulphadoxine + pyrimethamine tablet
+acyclovir,Injection,25 mg/ml,C,R,acyclovir injection
+acyclovir,Suspension,200 mg/5 ml,B2,R,acyclovir suspension
+acyclovir,Tablet,200 mg,B2,R,acyclovir tablet
+carbamazepine,Tablet,100 mg,B2,R,carbamazepine tablet
+carbamazepine,Tablet,200 mg,B2,R,carbamazepine tablet
+carbamazepine,"Tablet 
+(sustained-re-
+lease)",200 mg,C,R,"carbamazepine tablet 
+(sustained-re-
+lease)"
+carbamazepine,"Tablet 
+(sustained-re-
+lease)",400 mg,C,R,"carbamazepine tablet 
+(sustained-re-
+lease)"
+"clonazepam 
+hydrochloride",Oral Solution,"100 
+microgram/
+ml",(blank),R,"clonazepam 
+hydrochloride oral solution"
+"clonazepam 
+hydrochloride",Tablet,"500 
+microgram",(blank),R,"clonazepam 
+hydrochloride tablet"
+diazepam,Injection,5 mg/ml,B1,R,diazepam injection
+diazepam,Rectal Tubes,2 mg/ml,A,R,diazepam rectal tubes
+ethosuximide,Syrup,250 mg/5 ml,D,R,ethosuximide syrup
+ethosuximide,Tablet,250 mg,D,R,ethosuximide tablet
+lamotrigine,"Dispersible 
+Tablet",25 mg,(blank),R,"lamotrigine dispersible 
+tablet"
+lamotrigine,Tablet,25 mg,(blank),R,lamotrigine tablet
+lamotrigine,Tablet,50 mg,(blank),R,lamotrigine tablet
+levetiracetam,Injection,100 mg/ml,(blank),R,levetiracetam injection
+levetiracetam,Oral Solution,100 mg/ml,(blank),R,levetiracetam oral solution
+levetiracetam,Tablet,250 mg,(blank),R,levetiracetam tablet
+levetiracetam,Tablet,750 mg,(blank),R,levetiracetam tablet
+lorazepam,Injection,4 mg/ml,D,R,lorazepam injection
+magnesium sulphate,Injection,20%,M,R,magnesium sulphate injection
+magnesium sulphate,Injection,25%,M,R,magnesium sulphate injection
+magnesium sulphate,Injection,50%,M,R,magnesium sulphate injection
+midazolam,Injection,5 mg/ml,C,R,midazolam injection
+midazolam,"Oromucosal 
+Solution",5 mg/ml,C,R,"midazolam oromucosal 
+solution"
+phenobarbital,Injection,200 mg/ml,B1,R,phenobarbital injection
+phenytoin,Capsule,100 mg,B1,R,phenytoin capsule
+phenytoin,Injection,50 mg/ml,D,R,phenytoin injection
+phenytoin,Tablet,100 mg,B1,R,phenytoin tablet
+sodium valproate,Capsule,200 mg,D,R,sodium valproate capsule
+sodium valproate,Capsule,500 mg,D,R,sodium valproate capsule
+sodium valproate,Syrup,200 mg/5 ml,D,R,sodium valproate syrup
+sodium valproate,Tablet,200 mg,D,R,sodium valproate tablet
+acetylcysteine,Injection,200mg/ml,B1,R,acetylcysteine injection
+activated charcoal,Powder,50g,A,R,activated charcoal powder
+adrenaline,Injection,1mg/ml(1:1000),M,R,adrenaline injection
+atropine,Injection,0.6mg/ml,B2,R,atropine injection
+benzatropine,Injection,1mg/ml,C,R,benzatropine injection
+cholestyramine,Oral Powder Sachets,4g,(blank),R,cholestyramine oral powder sachets
+desferrioxamine,Injection,500mg,(blank),R,desferrioxamine injection
+diazepam,Injection,10mg/ml,B1,R,diazepam injection
+ethanol,Solution,10%,(blank),R,ethanol solution
+flumazenil,Injection,0.2mg,D,R,flumazenil injection
+fomepizole,Injection,5mg/ml,(blank),R,fomepizole injection
+fresh frozen plasma,(blank),(blank),(blank),(blank),fresh frozen plasma (blank)
+hydroxocobalamin,Injection,1 mg/ml,D,R,hydroxocobalamin injection
+n-acetylcysteine,Injection,200 mg/ml,C,R,n-acetylcysteine injection
+naloxone,Injection,"200 
+microgram/
+ml",C,R,naloxone injection
+naloxone,Injection,"400 
+microgram/
+ml",C,R,naloxone injection
+omeprazole,Tablet,40 mg,B1,R,omeprazole tablet
+phytomenadione,Injection,10 mg/ml,M,R,phytomenadione injection
+phytomenadione,Tablet,10 mg,B2,NR,phytomenadione tablet
+"promethazine 
+hydrochloride",Tablet,25 mg,A,R,"promethazine 
+hydrochloride tablet"
+ranitidine,Injection,25 mg/ml,C,R,ranitidine injection
+ranitidine,Tablet,150 mg,B2,R,ranitidine tablet
+salbutamol,Tablet,4 mg,(blank),(blank),salbutamol tablet
+sodium thiosulfate,,(blank),(blank),R,sodium thiosulfate
+aspirin,Tablet,300 mg,A,R,aspirin tablet
+clonidine,Tablet,"100 
+microgram",(blank),R,clonidine tablet
+clonidine,Tablet,"25 
+microgram",(blank),R,clonidine tablet
+paracetamol,Tablet,500 mg,A,R,paracetamol tablet
+propranolol,Tablet,40 mg,B2,R,propranolol tablet
+actinomycin d,Injection,10mg,(blank),NR,actinomycin d injection
+adriamycin hydrochloride,Injection,10mg,D,NR,adriamycin hydrochloride injection
+adriamycin hydrochloride,Injection,50mg,D,R,adriamycin hydrochloride injection
+bacillus calmette-guerin,Injection,12.5mg,SM,NR,bacillus calmette-guerin injection
+bacillus calmette-guerin,Injection,81 mg,SM,NR,bacillus calmette-guerin injection
+bicalutamide,Tablet,100 mg,D,NR,bicalutamide tablet
+bicalutamide,Tablet,50 mg,D,NR,bicalutamide tablet
+carboplatin,Injection,10 mg/ml,(blank),NR,carboplatin injection
+cisplatin,Injection,50 mg,D,NR,cisplatin injection
+cyclophosphamide,Injection,200 mg,D,NR,cyclophosphamide injection
+cyclophosphamide,Injection,500 mg,D,R,cyclophosphamide injection
+cyclophosphamide,Tablet,50 mg,D,NR,cyclophosphamide tablet
+doxorubucin,Injection,10 mg,(blank),NR,doxorubucin injection
+doxorubucin,Injection,2 mg/ml,(blank),NR,doxorubucin injection
+etoposide,Capsule,100 mg,D,NR,etoposide capsule
+etoposide,Injection,20 mg/ml,D,NR,etoposide injection
+flutamide,Tablet,250 mg,D,NR,flutamide tablet
+goserelin,Injection,10.8 mg,D,NR,goserelin injection
+goserelin,Injection,3.6 mg,D,NR,goserelin injection
+hydroxycarbamide,Capsule,500 mg,SM,NR,hydroxycarbamide capsule
+leuprolide acetate,Injection,3.75 mg/ml,D,NR,leuprolide acetate injection
+methotrexate,Injection,2.5 mg/ml,D,R,methotrexate injection
+methotrexate,Injection,25 mg/ml,D,R,methotrexate injection
+methotrexate,Tablet,10 mg,D,R,methotrexate tablet
+methotrexate,Tablet,2.5 mg,D,R,methotrexate tablet
+stilboestrol,Tablet,1 mg,D,NR,stilboestrol tablet
+stilboestrol,Tablet,2 mg,D,NR,stilboestrol tablet
+stilboestrol,Tablet,5 mg,D,NR,stilboestrol tablet
+thiotepa,Injection,15 mg,SM,NR,thiotepa injection
+vinblastine,Injection,1 mg/ml,D,NR,vinblastine injection
+vincristine,Injection,1 mg,D,NR,vincristine injection
+vincristine,Injection,2 mg,D,NR,vincristine injection
+vincristine,Injection,5 mg,D,NR,vincristine injection
+prednisolone,Tablet,5mg,B2,R,prednisolone tablet
+benzatropine,Tablet,2 mg,C,R,benzatropine tablet
+biperiden,Injection,5 mg/ml,C,NR,biperiden injection
+biperiden,Tablet,2 mg,C,NR,biperiden tablet
+trihexyphenidyl,Tablet,2 mg,C,R,trihexyphenidyl tablet
+trihexyphenidyl,Tablet,5 mg,C,R,trihexyphenidyl tablet
+cryoprecipitate,Injection,(blank),B2,NR,cryoprecipitate injection
+fresh frozen plasma,Injection,(blank),B2,NR,fresh frozen plasma injection
+packed red cells,Injection,(blank),B2,NR,packed red cells injection
+platelet concentrate,Injection,(blank),B2,NR,platelet concentrate injection
+purified factor ix,Injection,(blank),(blank),R,purified factor ix injection
+purified factor viii,Injection,(blank),(blank),R,purified factor viii injection
+recombinant factor ix,Injection,(blank),(blank),R,recombinant factor ix injection
+recombinant factor viii,Injection,(blank),(blank),R,recombinant factor viii injection
+salt-poor human albumin,Solution,(blank),(blank),R,salt-poor human albumin solution
+whole blood,,(blank),(blank),(blank),whole blood
+aspirin,Chewable Tablet,300mg,C,R,aspirin chewable tablet
+glyceryl trinitrate,Tablet,500 microgram,C,R,glyceryl trinitrate tablet
+isosorbide dinitrate,Tablet,10mg,C,R,isosorbide dinitrate tablet
+isosorbide dinitrate,Tablet,5mg,C,R,isosorbide dinitrate tablet
+nifedipine,Tablet,10mg (Slow release),B2,R,nifedipine tablet
+nifedipine,Tablet,"20 mg (Slow 
+release)",B2,R,nifedipine tablet
+nifedipine,Tablet,30 mg (GITS),B2,R,nifedipine tablet
+propranolol,Tablet,10 mg,B2,R,propranolol tablet
+propranolol,Tablet,40 mg,B2,R,propranolol tablet
+propranolol,Tablet,80 mg,B2,R,propranolol tablet
+atenolol,Tablet,25 mg,B2,R,atenolol tablet
+atenolol,Tablet,50 mg,B2,R,atenolol tablet
+bisoprolol,Tablet,5 mg,B2,R,bisoprolol tablet
+digoxin,Elixir,"50 
+microgram/
+ml",C,R,digoxin elixir
+digoxin,Tablet,"125 
+microgram",C,R,digoxin tablet
+digoxin,Tablet,"250 
+microgram",C,R,digoxin tablet
+metoprolol tartrate,Tablet,100 mg,(blank),R,metoprolol tartrate tablet
+metoprolol tartrate,Tablet,50 mg,(blank),R,metoprolol tartrate tablet
+propranolol,Tablet,10 mg,B2,R,propranolol tablet
+propranolol,Tablet,40 mg,B2,R,propranolol tablet
+propranolol,Tablet,80 mg,B2,R,propranolol tablet
+verapamil,Tablet,(blank),(blank),R,verapamil tablet
+amlodipine,Tablet,10 mg,B2,R,amlodipine tablet
+amlodipine,Tablet,5 mg,B2,R,amlodipine tablet
+atenolol,Injection,"500 
+microgram/
+ml",D,R,atenolol injection
+atenolol,Tablet,100 mg,B2,R,atenolol tablet
+atenolol,Tablet,25 mg,B2,R,atenolol tablet
+atenolol,Tablet,50 mg,B2,R,atenolol tablet
+bendroflumethiazide,Tablet,2.5 mg,B2,R,bendroflumethiazide tablet
+bendroflumethiazide,Tablet,5 mg,B1,R,bendroflumethiazide tablet
+bisoprolol,Tablet,10 mg,B2,R,bisoprolol tablet
+bisoprolol,Tablet,5 mg,B2,R,bisoprolol tablet
+candesartan,Tablet,16 mg,D,NR,candesartan tablet
+candesartan,Tablet,8 mg,D,NR,candesartan tablet
+cervedilol,Tablet,12.5 mg,(blank),R,cervedilol tablet
+cervedilol,Tablet,3.125 mg,(blank),R,cervedilol tablet
+dobutamide,Injection,12.5 mg/ml,D,NR,dobutamide injection
+enalapril,Tablet,10 mg,B2,R,enalapril tablet
+enalapril,Tablet,2.5 mg,B2,R,enalapril tablet
+hydralazine,Injection,20 mg,C,R,hydralazine injection
+hydralazine,Tablet,25 mg,B2,R,hydralazine tablet
+hydrochlorothiazide,Tablet,12.5 mg,(blank),R,hydrochlorothiazide tablet
+hydrochlorothiazide,Tablet,25 mg,B2,R,hydrochlorothiazide tablet
+labetalol,Injection,5 mg/ml,D,R,labetalol injection
+labetalol,Tablet,200 mg,B2,R,labetalol tablet
+labetalol,Tablet,50 mg,B2,R,labetalol tablet
+lisinopril,Tablet,10 mg,B2,R,lisinopril tablet
+lisinopril,Tablet,2.5 mg,B2,R,lisinopril tablet
+lisinopril,Tablet,5 mg,B2,R,lisinopril tablet
+losartan,Tablet,100 mg,C,R,losartan tablet
+losartan,Tablet,25 mg,C,R,losartan tablet
+losartan,Tablet,50 mg,C,R,losartan tablet
+methyldopa,Tablet,250 mg,M,R,methyldopa tablet
+metoprolol tartrate,Tablet,50 mg,(blank),R,metoprolol tartrate tablet
+nifedipine,Tablet,10 mg,C,R,nifedipine tablet
+nifedipine,Tablet,"10 mg (Slow 
+release)",M,R,nifedipine tablet
+nifedipine,Tablet,"20 mg (Slow 
+release)",M,R,nifedipine tablet
+nifedipine,Tablet,30 mg (GITS),M,R,nifedipine tablet
+nifedipine,Tablet,5 mg,D,R,nifedipine tablet
+prazosin,Tablet,"500 
+microgram",D,R,prazosin tablet
+propranolol,Injection,1 mg/ml,D,R,propranolol injection
+propranolol,Tablet,10 mg,B2,R,propranolol tablet
+propranolol,Tablet,40 mg,B2,R,propranolol tablet
+propranolol,Tablet,80 mg,B2,R,propranolol tablet
+ramipril,Tablet,2.5 mg,C,R,ramipril tablet
+spironolactone,Tablet,25 mg,C,R,spironolactone tablet
+spironolactone,Tablet,50 mg,C,R,spironolactone tablet
+valsartan,Tablet,160 mg,(blank),R,valsartan tablet
+valsartan,Tablet,40 mg,(blank),R,valsartan tablet
+digoxin,Elixir,"50 
+microgram/
+ml",C,R,digoxin elixir
+digoxin,Tablet,"125 
+microgram",C,R,digoxin tablet
+digoxin,Tablet,"250 
+microgram",C,R,digoxin tablet
+hydrocortisone,Injection,100 mg,M,R,hydrocortisone injection
+polygeline,Infusion,3.50%,(blank),R,polygeline infusion
+insulin aspart,Injection,100 units/ml,C,NR,insulin aspart injection
+atorvastatin,Tablet,10 mg,C,R,atorvastatin tablet
+atorvastatin,Tablet,20 mg,C,R,atorvastatin tablet
+rosuvastatin,Tablet,10 mg,C,R,rosuvastatin tablet
+rosuvastatin,Tablet,5 mg,C,R,rosuvastatin tablet
+simvastatin,Tablet,10 mg,C,R,simvastatin tablet
+simvastatin,Tablet,20 mg,C,R,simvastatin tablet
+simvastatin,Tablet,30 mg,C,R,simvastatin tablet
+simvastatin,Tablet,40 mg,C,R,simvastatin tablet
+dobutamine,"Solution for 
+Infusion",5 mg/ml,(blank),R,"dobutamine solution for 
+infusion"
+acyclovir,Cream,5%,C,R,acyclovir cream
+adapalene,Cream,0.10%,(blank),R,adapalene cream
+adapalene,Gel,0.10%,(blank),R,adapalene gel
+cetrimide,Solution,15%,M,NR,cetrimide solution
+"cetrimide + chlorhexidine 
+gluconate",Solution,"0.15% + 
+0.015%",A,R,"cetrimide + chlorhexidine 
+gluconate solution"
+"cetrimide + chlorhexidine 
+gluconate",Solution,15% + 1.5%,A,R,"cetrimide + chlorhexidine 
+gluconate solution"
+chlorhexidine,Gel,"7.1% 
+(digluconate) 
+delivering 4% 
+chlorhexidine",A,R,chlorhexidine gel
+chlorhexidine,Solution,"7.1% 
+(digluconate) 
+delivering 4% 
+chlorhexidine",A,R,chlorhexidine solution
+fusidic acid,Cream,2%,(blank),R,fusidic acid cream
+mupirocin,Ointment,2%,(blank),R,mupirocin ointment
+povidone iodine,Solution,10%,(blank),R,povidone iodine solution
+silver sulphadiazine,Cream,1%,B1,R,silver sulphadiazine cream
+"betamethasone 
+diproprionate",Cream,0.05%,C,R,"betamethasone 
+diproprionate cream"
+"betamethasone 
+diproprionate",Cream,0.10%,C,R,"betamethasone 
+diproprionate cream"
+calamine,Cream,15%,A,R,calamine cream
+calamine,Lotion,15%,A,R,calamine lotion
+clobetasol propionate,Cream,0.05%,(blank),R,clobetasol propionate cream
+hydrocortisone,Cream,0.50%,B1,R,hydrocortisone cream
+hydrocortisone,Cream,1%,B1,R,hydrocortisone cream
+hydrocortisone,Cream,2.50%,D,R,hydrocortisone cream
+mometasone,Cream,0.10%,(blank),R,mometasone cream
+zinc oxide,Cream,(blank),(blank),R,zinc oxide cream
+"benzoic acid + salicylic 
+acid",Ointment,6% + 3%,A,R,"benzoic acid + salicylic 
+acid ointment"
+ciclopirox olamine,Cream,1%,B1,R,ciclopirox olamine cream
+clotrimazole,Cream,1%,A,R,clotrimazole cream
+clotrimazole,Cream,2%,A,R,clotrimazole cream
+clotrimazole,Pessary,100 mg,M,R,clotrimazole pessary
+clotrimazole,Powder,1%,A,R,clotrimazole powder
+clotrimazole,"Topical 
+Solution",1%,A,R,"clotrimazole topical 
+solution"
+"clotrimazole + 
+hydrocortisone",Cream,1% + 1%,C,R,"clotrimazole + 
+hydrocortisone cream"
+"clotrimazole + 
+hydrocortisone",Cream,2% + 1%,C,NR,"clotrimazole + 
+hydrocortisone cream"
+econazole,Cream,(blank),(blank),R,econazole cream
+ketoconazole,Shampoo,(blank),C,R,ketoconazole shampoo
+miconazole,Cream,2%,B2,R,miconazole cream
+miconazole,Oral Gel,24 mg/ml,B2,R,miconazole oral gel
+miconazole,Powder,2%,B2,R,miconazole powder
+miconazole,Tincture,(blank),B2,R,miconazole tincture
+miconazole,Vaginal Tablet,200 mg,B2,R,miconazole vaginal tablet
+"miconazole + 
+hydrocortisone",Cream,2% + 1%,(blank),NR,"miconazole + 
+hydrocortisone cream"
+nystatin,Cream,(blank),M,R,nystatin cream
+selenium sulphide,Shampoo,2.50%,C,R,selenium sulphide shampoo
+salicylic acid,Ointment,0.02%,B1,R,salicylic acid ointment
+aqueous cream,,BP,A ,R,aqueous cream
+aqueous soap,,,A,R,aqueous soap
+paraffin,Cream,(blank),A,R,paraffin cream
+benzyl benzoate,Lotion,0.25,A,R,benzyl benzoate lotion
+malathoin,Liquid,0.50%,(blank),R,malathoin liquid
+permethrin,Lotion,1%,(blank),R,permethrin lotion
+adapalene,Cream,0.10%,(blank),R,adapalene cream
+adapalene,Gel,0.10%,(blank),R,adapalene gel
+benzoyl peroxide,Solution,0.05,C,R,benzoyl peroxide solution
+clindamycin,Solution,1%,C,R,clindamycin solution
+copper sulphate,Stone,(blank),(blank),R,copper sulphate stone
+e45,Cream,(blank),(blank),R,e45 cream
+imiquimod,Cream,0.05,(blank),R,imiquimod cream
+oilatum,Soap,(blank),(blank),NR,oilatum soap
+podophyllin,"Tincture of 
+benzoin",10-25%,(blank),R,"podophyllin tincture of 
+benzoin"
+podophylotoxin,(blank),0.50%,(blank),R,podophylotoxin (blank)
+shea butter,Cream,(blank),(blank),NR,shea butter cream
+tretinoin,Gel,0.01%,(blank),R,tretinoin gel
+trichloroacetic acid,,80-90%,(blank),R,trichloroacetic acid
+fluorescein,Solution,2%,C,NR,fluorescein solution
+fluorescein,Strips,,C,NR,fluorescein strips
+tropicamide,eyedrops,1%,C,NR,tropicamide eyedrops
+chlorhexidine,Cream,1%,A,R,chlorhexidine cream
+chlorhexidine,Solution,0.025,A,R,chlorhexidine solution
+chlorhexidine,Solution,0.04,A,NR,chlorhexidine solution
+povidone iodine,Solution,0.1,B1,R,povidone iodine solution
+bendroflumethiazide,Tablet,2.5 mg,B1,R,bendroflumethiazide tablet
+bendroflumethiazide,Tablet,5 mg,B1,R,bendroflumethiazide tablet
+furosemide,Injection,10 mg/ml,B2,R,furosemide injection
+furosemide,Tablet,40 mg,B1,R,furosemide tablet
+hypertonic saline,Injection,0.03,(blank),R,hypertonic saline injection
+mannitol,Injection,0.2,C,R,mannitol injection
+metolazone,Tablet,5 mg,D,R,metolazone tablet
+spironolactone,Tablet,25 mg,C,R,spironolactone tablet
+spironolactone,Tablet,50 mg,C,R,spironolactone tablet
+adrenaline,injection,1mg/ml(1:1000),M,R,adrenaline injection
+aminophylline,Injection,250mg/10ml,B2,R,aminophylline injection
+"beclometasone 
+dipropionate",Inhaler,"100 
+microgram/
+metered 
+dose (200 
+doses)",B2,R,"beclometasone 
+dipropionate inhaler"
+budesonide,"metered dose 
+inhaler","100 
+microgram",D,R,"budesonide metered dose 
+inhaler"
+budesonide,"metered dose 
+inhaler","200 
+microgram",D,R,"budesonide metered dose 
+inhaler"
+budesonide + formoterol,Inhaler,"160 
+microgram 
++ 4.5 
+microgram",D,R,budesonide + formoterol inhaler
+budesonide + formoterol,Inhaler,"80 
+microgram 
++ 4.5 
+microgram",D,R,budesonide + formoterol inhaler
+fluticasone,Inhaler,"125 
+microgram",D,R,fluticasone inhaler
+fluticasone,Inhaler,"250 
+microgram",D,R,fluticasone inhaler
+fluticasone + salmeterol,Inhaler,"250 
+microgram 
++ 50 
+microgram",D,R,fluticasone + salmeterol inhaler
+hydrocortisone,Injection,100 mg,M,R,hydrocortisone injection
+ipratropium bromide,Nebuliser,(blank),(blank),R,ipratropium bromide nebuliser
+montelukast,"Chewable 
+Tablet",4 mg,(blank),R,"montelukast chewable 
+tablet"
+montelukast,"Chewable 
+Tablet",5 mg,(blank),R,"montelukast chewable 
+tablet"
+montelukast,"Granule 
+Sachets",4 mg,(blank),R,"montelukast granule 
+sachets"
+montelukast,"Granule 
+Sachets",5 mg,(blank),R,"montelukast granule 
+sachets"
+montelukast,Tablet,10 mg,(blank),R,montelukast tablet
+prednisolone,Tablet,5 mg,B2,R,prednisolone tablet
+salbutamol,Nebuliser,"2.5 mg 
+nebules",B1,R,salbutamol nebuliser
+salbutamol,Nebuliser,5 mg nebules,B1,R,salbutamol nebuliser
+salbutamol,"Pressurized 
+metered dose 
+Inhaler","100 
+microgram/
+metered 
+dose (200 
+doses)",A,R,"salbutamol pressurized 
+metered dose 
+inhaler"
+salbutamol,Syrup,2 mg/5 ml,B1,R,salbutamol syrup
+salbutamol,Tablet,2 mg,B1,R,salbutamol tablet
+salbutamol,Tablet,4 mg,B1,R,salbutamol tablet
+theophylline,"Tablet (slow 
+release)",200 mg,B2,R,"theophylline tablet (slow 
+release)"
+tiotropium bromide,"Inhaler (dry 
+powder)",(blank),(blank),R,"tiotropium bromide inhaler (dry 
+powder)"
+acetylcysteine,Syrup,(blank),B1,R,acetylcysteine syrup
+carbocysteine,Capsule,375 mg,B1,R,carbocysteine capsule
+carbocysteine,Syrup,125 mg/5 ml,B1,R,carbocysteine syrup
+carbocysteine,Syrup,250 mg/5 ml,B1,R,carbocysteine syrup
+"codeine containing cough 
+preparations",Syrup,(blank),(blank),R,"codeine containing cough 
+preparations syrup"
+"dextromethorphan 
+containing cough 
+preparations",Syrup,(blank),(blank),R,"dextromethorphan 
+containing cough 
+preparations syrup"
+"guaifenesin containing 
+experorant",Syrup,(blank),(blank),R,"guaifenesin containing 
+experorant syrup"
+simple linctus,"Paediatric 
+Formulation",(blank),A,R,"simple linctus paediatric 
+formulation"
+simple linctus,Syrup,(blank),A,R,simple linctus syrup
+oxygyen,Inhalation,(blank),M,NR,oxygyen inhalation
+darbepoietin alpha,Injection,100 microgram/ml,(blank),(blank),darbepoietin alpha injection
+darbepoietin alpha,Injection,25 microgram/ml,(blank),(blank),darbepoietin alpha injection
+darbepoietin alpha,Injection,500 microgram/ml,(blank),(blank),darbepoietin alpha injection
+epoietin beta,Injection,10000 units/ml,(blank),(blank),epoietin beta injection
+epoietin beta,Injection,2000 units/ml,(blank),(blank),epoietin beta injection
+ferric sodium gluconate complex,Injection,(blank),(blank),(blank),ferric sodium gluconate complex injection
+ferrous fumarate,Tablet,65mg Elemental Iron,A,R,ferrous fumarate tablet
+ferrous gluconate,,(blank),(blank),(blank),ferrous gluconate
+ferrous sulphate,Syrup,60mg/5ml,A,(blank),ferrous sulphate syrup
+ferrous sulphate,Tablet,65mg Elemental Iron,A,(blank),ferrous sulphate tablet
+folic acid,Tablet,5mg,A,R,folic acid tablet
+hydroxocobalamin,Injection,1mg/ml,D,R,hydroxocobalamin injection
+iron (iii) hydroxide polymaltose complex,Capsule,100mg Elemental Iron,(blank),R,iron (iii) hydroxide polymaltose complex capsule
+iron (iii) hydroxide polymaltose complex,Suspension,100mg Elemental Iron,(blank),R,iron (iii) hydroxide polymaltose complex suspension
+iron dextran,Injection,100mg/2ml,C,R,iron dextran injection
+iron sucrose,Injection,20mg/ml,SM,R,iron sucrose injection
+"methoxy polyethylene 
+glycol epoietin beta 
+(pegylated form of epo)",Injection,"100 
+microgram/
+ml",(blank),(blank),"methoxy polyethylene 
+glycol epoietin beta 
+(pegylated form of epo) injection"
+"methoxy polyethylene 
+glycol epoietin beta 
+(pegylated form of epo)",Injection,"500 
+microgram/
+ml",(blank),(blank),"methoxy polyethylene 
+glycol epoietin beta 
+(pegylated form of epo) injection"
+aspirin,"Dispersible 
+Tablet",75 mg,B2,R,"aspirin dispersible 
+tablet"
+clopidogrel,Tablet,75 mg,(blank),R,clopidogrel tablet
+dalteparin,Injection,"10 000 units/
+ml",D,R,dalteparin injection
+dalteparin,Injection,"25 000 units/
+ml",D,R,dalteparin injection
+dalteparin,Injection,"2500 units/
+ml",D,R,dalteparin injection
+desmopressin,Nasal Spray,"150 
+microgram/
+dose",(blank),R,desmopressin nasal spray
+enoxaparin,Injection,100 mg/ml,C,R,enoxaparin injection
+heparin,Injection,"1000 units/
+ml",D,R,heparin injection
+heparin,Injection,"25 000 units/
+ml",D,R,heparin injection
+heparin,Injection,"5000 units/
+ml",D,R,heparin injection
+phytomenadione,Injection,1 mg/ml,M,R,phytomenadione injection
+phytomenadione,Injection,10 mg/ml,M,R,phytomenadione injection
+phytomenadione,Tablet,10 mg,B2,NR,phytomenadione tablet
+tranexamic acid,Capsule,250 mg,C,R,tranexamic acid capsule
+tranexamic acid,Injection,"50 
+microgram/
+ml",D,R,tranexamic acid injection
+tranexamic acid,Tablet,500 mg,C,R,tranexamic acid tablet
+warfarin,Tablet,1 mg,D,R,warfarin tablet
+warfarin,Tablet,3mg,D,R,warfarin tablet
+warfarin,Tablet,5mg,D,R,warfarin tablet
+alluminium hydroxide,Tablet,500mg,A,R,alluminium hydroxide tablet
+"antacid containing aluminium hydroxide, magnesium hydroxide, simethicone, calcium alginate",Mixture,(blank),(blank),R,"antacid containing aluminium hydroxide, magnesium hydroxide, simethicone, calcium alginate mixture"
+esomeprazole,Capsule,20mg,C,R,esomeprazole capsule
+esomeprazole,Capsule,40mg,C,R,esomeprazole capsule
+esomeprazole,Injection,40mg,C,NR,esomeprazole injection
+magnesium trisilicate,Mixture,(blank),A,R,magnesium trisilicate mixture
+magnesium trisilicate,Tablet,500mg,A,R,magnesium trisilicate tablet
+omeprazole,Tablet,20mg,B1,R,omeprazole tablet
+pantoprazole,Tablet,40mg,(blank),R,pantoprazole tablet
+rabeprazole,Capsule,10mg,C,NR,rabeprazole capsule
+rabeprazole,Capsule,20mg,C,R,rabeprazole capsule
+cinnarizine,Injection,15 mg,(blank),R,cinnarizine injection
+cyclizine,Injection,50 mg/ml,(blank),R,cyclizine injection
+cyclizine,Tablet,50 mg,(blank),R,cyclizine tablet
+dexamethasone,Tablet,1 mg,D,R,dexamethasone tablet
+dexamethasone,Tablet,"500 
+microgram",D,R,dexamethasone tablet
+domperidone,Oral Solution,1 mg/ml,D,R,domperidone oral solution
+domperidone,Tablet,10 mg,D,R,domperidone tablet
+granisetron,Injection,1 mg/ml,D,R,granisetron injection
+granisetron,Tablet,1 mg,D,R,granisetron tablet
+lorazepam,Injection,4 mg/ml,D,R,lorazepam injection
+lorazepam,Tablet,1 mg,B2,R,lorazepam tablet
+lorazepam,Tablet,2 mg,B2,R,lorazepam tablet
+lorazepam,Tablet,"500 
+microgram",B2,R,lorazepam tablet
+metoclopramide,Injection,5 mg/ml,C,R,metoclopramide injection
+metoclopramide,Tablet,10 mg,B2,R,metoclopramide tablet
+ondansetron,Tablet,4 mg,(blank),R,ondansetron tablet
+ondansetron,Tablet,8 mg,(blank),R,ondansetron tablet
+"promethazine 
+hydrochloride",Elixir,5 mg/ml,A,R,"promethazine 
+hydrochloride elixir"
+"promethazine 
+hydrochloride",Injection,25 mg/ml,B1,R,"promethazine 
+hydrochloride injection"
+promethazine teoclate,Tablet,25 mg,M,R,promethazine teoclate tablet
+"soothing agent + local 
+anaesthetic",Ointment,(blank),M,R,"soothing agent + local 
+anaesthetic ointment"
+"soothing agent + local 
+anaesthetic",Suppository,(blank),M,R,"soothing agent + local 
+anaesthetic suppository"
+"soothing agent + local 
+anaesthetic + steroid",Ointment,(blank),B1,R,"soothing agent + local 
+anaesthetic + steroid ointment"
+"soothing agent + local 
+anaesthetic + steroid",Suppository,(blank),B1,R,"soothing agent + local 
+anaesthetic + steroid suppository"
+"hyoscine-n-butyl 
+bromide",Injection,20 mg/ml,M,R,"hyoscine-n-butyl 
+bromide injection"
+"hyoscine-n-butyl 
+bromide",Tablet,10 mg,M,R,"hyoscine-n-butyl 
+bromide tablet"
+mebeverine,Tablet,135 mg,C,R,mebeverine tablet
+bisacodyl,Suppository,10 mg,B1,R,bisacodyl suppository
+bisacodyl,Tablet,5 mg,B1,NR,bisacodyl tablet
+glycerol,Suppository,1 g,(blank),R,glycerol suppository
+glycerol,Suppository,2 g,(blank),R,glycerol suppository
+glycerol,Suppository,4 g,(blank),R,glycerol suppository
+lactulose,Liquid,3.1 - 3.7 g/ml,C,R,lactulose liquid
+magnesium sulphate,Salt,(blank),B2,R,magnesium sulphate salt
+milk of magnesia,(blank),(blank),(blank),R,milk of magnesia (blank)
+paraffin,Liquid,(blank),A,R,paraffin liquid
+senna,Granules,(blank),A,NR,senna granules
+senna,Syrup,7.5 mg/5 ml,A,NR,senna syrup
+senna,Tablet,7.5 mg,A,NR,senna tablet
+oral rehydration salts,Sachet,(blank),A,R,oral rehydration salts sachet
+zinc,Tablet,10 mg,A,R,zinc tablet
+zinc,Tablet,20 mg,A,R,zinc tablet
+rifaximin,Tablet,200 mg,(blank),NR,rifaximin tablet
+rifaximin,Tablet,550 mg,(blank),NR,rifaximin tablet
+dexamethasone,Injection,4 mg/ml,M,R,dexamethasone injection
+hydrocortisone,Injection,100 mg,M,R,hydrocortisone injection
+prednisolone,Tablet,5 mg,B2,R,prednisolone tablet
+condoms (female),,(blank),A,NR,condoms (female)
+condoms (male),,(blank),A,NR,condoms (male)
+"ethinylestradiol + 
+levonorgestrel",Injection,(blank),PM,NR,"ethinylestradiol + 
+levonorgestrel injection"
+"ethinylestradiol + 
+levonorgestrel",Tablet,(blank),PM,NR,"ethinylestradiol + 
+levonorgestrel tablet"
+"ethinylestradiol + 
+norethisterone",Tablet,(blank),PM,NR,"ethinylestradiol + 
+norethisterone tablet"
+"medroxyprogesterone 
+acetate",Injection,150 mg,PM,NR,"medroxyprogesterone 
+acetate injection"
+norethisterone,(blank),(blank),(blank),NR,norethisterone (blank)
+conjugated oestrogen,Tablet,"625 
+microgram",D,R,conjugated oestrogen tablet
+conjugated oestrogen,"Vaginal 
+Cream","625 
+microgram",D,R,"conjugated oestrogen vaginal 
+cream"
+"conjugated oestrogen + 
+norgesterol","Tablet
+","626 
+microgram 
++ 150 
+microgram",C,R,"conjugated oestrogen + 
+norgesterol tablet"
+glbenclamide,Tablet,5 mg,B1,R,glbenclamide tablet
+gliclazide,Tablet,80 mg,C,R,gliclazide tablet
+glimerpiride,Tablet,1 mg,C,R,glimerpiride tablet
+glimerpiride,Tablet,2 mg,C,R,glimerpiride tablet
+glimerpiride,Tablet,4 mg,C,R,glimerpiride tablet
+glucagon,Injection,1 mg,C,R,glucagon injection
+insulin determir,Injection,100 units/ml,C,NR,insulin determir injection
+insulin glargine,Injection,100 units/ml,C,NR,insulin glargine injection
+insulin lispro,Injection,100 units/ml,C,NR,insulin lispro injection
+"insulin pre-mixed (30/70) 
+hm",Injection,100 units/ml,C,R,"insulin pre-mixed (30/70) 
+hm injection"
+insulin soluble hm,Injection,100 units/ml,C,R,insulin soluble hm injection
+metformin,Tablet,500 mg,B1,R,metformin tablet
+nph insulin,Injection,100 units/ml,C,R,nph insulin injection
+pioglitazone,Tablet,15 mg,C,R,pioglitazone tablet
+pioglitazone,Tablet,30 mg,C,R,pioglitazone tablet
+saxagliptin,Tablet,2.5 mg,(blank),R,saxagliptin tablet
+sitagliptin,Tablet,100 mg,(blank),R,sitagliptin tablet
+sitagliptin,Tablet,25 mg,(blank),R,sitagliptin tablet
+tolbutamide,Tablet,500 mg,C,R,tolbutamide tablet
+vildagliptin,Tablet,50 mg,(blank),R,vildagliptin tablet
+bromocriptine,Tablet,1.25mg,D,R,bromocriptine tablet
+bromocriptine,Tablet,2.5mg,D,R,bromocriptine tablet
+clomifene citrate,Tablet,50mg,D,NR,clomifene citrate tablet
+"medroxyprogesterone 
+acetate",Tablet,5 mg,D,R,"medroxyprogesterone 
+acetate tablet"
+norethisterone,Tablet,5 mg,D,R,norethisterone tablet
+carbimazole,Tablet,20 mg,C,R,carbimazole tablet
+carbimazole,Tablet,5 mg,C,R,carbimazole tablet
+levothyroxine,Tablet,"100 
+microgram",C,R,levothyroxine tablet
+levothyroxine,Tablet,"50 
+microgram",C,R,levothyroxine tablet
+propylthiouracil,Tablet,50 mg,D,R,propylthiouracil tablet
+anti d rh immunoglobulin,Injection,250 units/ml,C,R,anti d rh immunoglobulin injection
+anti d rh immunoglobulin,Injection,750 units/ml,C,R,anti d rh immunoglobulin injection
+anti-snake serum,Injection,1500 IU/ml,B1,NR,anti-snake serum injection
+"antirabies 
+immunoglobulin",Injection,1000 IU/5 ml,B1,NR,"antirabies 
+immunoglobulin injection"
+diphtheria antitoxin,Infusion,(blank),(blank),R,diphtheria antitoxin infusion
+tetanus immunoglobulin,Injection,250 IU/ml,M,R,tetanus immunoglobulin injection
+tetanus immunoglobulin,Injection,5000 IU/amp,M,R,tetanus immunoglobulin injection
+tetanus toxoid,Injection,40 IU (0.5 ml),M,NR,tetanus toxoid injection
+meningococcal vaccine,Injection,(blank),B1,NR,meningococcal vaccine injection
+"pneumococcal conjugate 
+vaccine 13 (pcv13)",Injection,(blank),(blank),NR,"pneumococcal conjugate 
+vaccine 13 (pcv13) injection"
+rabies vaccine,Injection,(blank),B1,NR,rabies vaccine injection
+tetanus toxoid,Injection,40 IU (0.5 ml),M,NR,tetanus toxoid injection
+tetanus vaccine,Injection,40 IU/5 ml,M,NR,tetanus vaccine injection
+yellow fever vaccine,Injection,(blank),PM,NR,yellow fever vaccine injection
+"bacillus calmette-guerin 
+(bcg) vaccine",Injection,(blank),PM,NR,"bacillus calmette-guerin 
+(bcg) vaccine injection"
+"five in one vaccine 
+(diphtheria, pertussis, 
+tetanus, heamophilus 
+influenzae b and hepatitis 
+b)",Injection,(blank),PM,NR,"five in one vaccine 
+(diphtheria, pertussis, 
+tetanus, heamophilus 
+influenzae b and hepatitis 
+b) injection"
+hepatitis b vaccine,Injection,(blank),PM,NR,hepatitis b vaccine injection
+measles vaccine,Injection,(blank),PM,NR,measles vaccine injection
+poliomyelitis vaccine,Oral Solution,(blank),PM,NR,poliomyelitis vaccine oral solution
+tetanus vaccine,Injection,40 IU/5 ml,M,NR,tetanus vaccine injection
+yellow fever vaccine,Injection,(blank),PM,NR,yellow fever vaccine injection
+"pegylated inteferon 
+alfa-2a",Injection,180 microgram/ml,(blank),R,"pegylated inteferon 
+alfa-2a injection"
+"pegylated inteferon 
+alfa-2b","Powder and 
+solvent for 
+injection","50 
+microgram",(blank),R,"pegylated inteferon 
+alfa-2b powder and 
+solvent for 
+injection"
+"pegylated inteferon 
+alfa-2b","Powder and 
+solvent for 
+injection","80 
+microgram",(blank),R,"pegylated inteferon 
+alfa-2b powder and 
+solvent for 
+injection"
+cyclobenzaprine,Tablet,(blank),(blank),R,cyclobenzaprine tablet
+tizanidine,Tablet,2mg,(blank),R,tizanidine tablet
+sodium cromoglycate,Eyedrops,0.02,B1,NR,sodium cromoglycate eyedrops
+chloramphenicol,"Ear, Eye Drops",0.50%,A,(blank),"chloramphenicol ear, eye drops"
+chloramphenicol,Eye Ointment,1%,A,(blank),chloramphenicol eye ointment
+ciprofloxacin,Eye Drops,0.30%,B2,R,ciprofloxacin eye drops
+tetracycline,Eye Ointment,1%,M,R,tetracycline eye ointment
+"corticosteroid + 
+antibiotic",Eye Drops,(blank),C,R,"corticosteroid + 
+antibiotic eye drops"
+"corticosteroid + 
+antibiotic",Eye Ointment,(blank),C,R,"corticosteroid + 
+antibiotic eye ointment"
+acetazolamide,Injection,500 mg,C,R,acetazolamide injection
+acetazolamide,Tablet,250 mg,C,R,acetazolamide tablet
+betaxolol,Eye Drops,0.50%,(blank),NR,betaxolol eye drops
+bimatoprost,Eye Drops,"300 
+microgram/
+ml",SM,NR,bimatoprost eye drops
+latanoprost,Eye Drops,"50 
+microgram/
+ml",SM,NR,latanoprost eye drops
+levobunolol,Eye Drops,0.50%,(blank),NR,levobunolol eye drops
+pilocarpine,Eye Drops,0.02,C,R,pilocarpine eye drops
+pilocarpine,Eye Drops,0.04,C,R,pilocarpine eye drops
+pilocarpine,Eye Drops,1%,C,R,pilocarpine eye drops
+timolol maleate,Eye Drops,0.50%,C,R,timolol maleate eye drops
+travoprost,Eye Drops,"40 
+microgram/
+ml",(blank),NR,travoprost eye drops
+phenylephrine,Eye Drops,10%,SM,NR,phenylephrine eye drops
+phenylephrine,Eye Drops,2.50%,SM,NR,phenylephrine eye drops
+fluorescein,Eye Drops,(blank),C,NR,fluorescein eye drops
+brimornidine,,1 mg/ml,(blank),NR,brimornidine
+brimornidine,,1.5 mg/ml,(blank),NR,brimornidine
+brinzolamide,Eye Drops,10 mg/ml,(blank),NR,brinzolamide eye drops
+dorzolamide,Eye Drops,20 mg/ml,(blank),NR,dorzolamide eye drops
+hydroxymethyl cellulose,Eye Drops,0.30%,(blank),R,hydroxymethyl cellulose eye drops
+polyvinyl alcohol,Eye Drops,0.014,(blank),R,polyvinyl alcohol eye drops
+polyvinyl alcohol,Eye Drops,0.02,(blank),R,polyvinyl alcohol eye drops
+sodium chloride,Solution,0.009,A,R,sodium chloride solution
+"proparacaine 
+hydrochloride",Eye Drops,0.50%,(blank),R,"proparacaine 
+hydrochloride eye drops"
+tetracaine hydrochloride,Eye Drops,0.50%,(blank),R,tetracaine hydrochloride eye drops
+chlorhexidine,Mouthwash,0.12%,A,R,chlorhexidine mouthwash
+lidocaine,Gel,0.02%,M,R,lidocaine gel
+lidocaine + adrenaline,Cartridge,"20 mg/
+ml + [1:80 
+000/1:100 
+000]",B2,R,lidocaine + adrenaline cartridge
+miconazole,Oral Gel,24 mg/ml,B1,R,miconazole oral gel
+nystatin,"Oral 
+Suspension",100 000 IU,B1,R,"nystatin oral 
+suspension"
+povidone iodine,Mouthwash,1%,A,R,povidone iodine mouthwash
+adrenaline,As nose pack,"1 mg /ml 
+(1:1000)",A,R,adrenaline as nose pack
+ciprofloxacin,Ear Drops,0.30%,B2,R,ciprofloxacin ear drops
+ephedrine hydrochloride,Nasal Drops,0.50%,A,R,ephedrine hydrochloride nasal drops
+ephedrine hydrochloride,Nasal Drops,1%,A,R,ephedrine hydrochloride nasal drops
+gentamicin,Ear Drops,0.30%,B1,R,gentamicin ear drops
+"neomycin + 
+hydrocortisone",Nasal Drops,0.5% + 1.5%,(blank),R,"neomycin + 
+hydrocortisone nasal drops"
+oxymetazoline,Nasal Spray,0.30%,(blank),R,oxymetazoline nasal spray
+sodium chloride,Nasal Drops,0.009,A,R,sodium chloride nasal drops
+xylometazoline,Nasal Spray,0.001,(blank),R,xylometazoline nasal spray
+xylometazoline,Nasal Spray,0.05%,(blank),R,xylometazoline nasal spray
+abacavir + lamivudine,Tablet,"60 mg + 30 
+mg",(blank),NR,abacavir + lamivudine tablet
+abacavir + lamivudine,Tablet,"600 mg + 300 
+mg",(blank),NR,abacavir + lamivudine tablet
+atazanavir + ritonavir,Tablet,"300 mg + 100 
+mg",(blank),NR,atazanavir + ritonavir tablet
+efavirenz,Tablet,200 mg,PM,NR,efavirenz tablet
+efavirenz,Tablet,50 mg,PM,NR,efavirenz tablet
+efavirenz,Tablet,600 mg,PM,NR,efavirenz tablet
+emtricitabine + tenofovir,Tablet,"200 mg + 300 
+mg",(blank),NR,emtricitabine + tenofovir tablet
+"emtricitabine + tenofovir 
++ efavirenz",Tablet,"200 mg + 300 
+mg + 600 mg",(blank),NR,"emtricitabine + tenofovir 
++ efavirenz tablet"
+lamivudine,Tablet,150 mg,PM,NR,lamivudine tablet
+lamivudine + tenofovir,Tablet,"150 mg + 300 
+mg",(blank),NR,lamivudine + tenofovir tablet
+"lamivudine + zidovudine 
++ nevirapine",Tablet,"150 mg + 300 
+mg + 200 mg",(blank),NR,"lamivudine + zidovudine 
++ nevirapine tablet"
+lopinavir + ritonavir,Tablet,"100 mg + 
+25 mg",PM,NR,lopinavir + ritonavir tablet
+lopinavir + ritonavir,Tablet,"200 mg + 
+50 mg",PM,NR,lopinavir + ritonavir tablet
+nevirapine,"Dispersible 
+Tablet",50 mg,PM,NR,"nevirapine dispersible 
+tablet"
+nevirapine,Suspension,10 mg/ml,PM,NR,nevirapine suspension
+nevirapine,Tablet,200 mg,PM,NR,nevirapine tablet
+"tenofovir + lamivudine + 
+efavirenz",Tablet,"300 mg + 300 
+mg + 600 mg",(blank),NR,"tenofovir + lamivudine + 
+efavirenz tablet"
+"tenofovir disoproxil 
+fumarate",Tablet,300 mg,PM,NR,"tenofovir disoproxil 
+fumarate tablet"
+zidovudine,Syrup,10 mg/ml,PM,NR,zidovudine syrup
+zidovudine,Tablet,300 mg,PM,NR,zidovudine tablet
+zidovudine + lamivudine,Tablet,"300 mg + 150 
+mg",PM,NR,zidovudine + lamivudine tablet
+zidovudine + lamivudine,Tablet,"60 mg + 30 
+mg",PM,NR,zidovudine + lamivudine tablet
+"zidovudine + lamivudine 
++ efavirenz",Tablet,"300 mg + 150 
+mg + 600 mg",(blank),NR,"zidovudine + lamivudine 
++ efavirenz tablet"
+alfuzocin,Tablet,(blank),(blank),R,alfuzocin tablet
+finasteride,Tablet,5 mg,SM,R,finasteride tablet
+prostagladin e1,Tablet,(blank),(blank),R,prostagladin e1 tablet
+sildenafil citrate,Tablet,(blank),(blank),R,sildenafil citrate tablet
+tadalafil,Tablet,(blank),(blank),R,tadalafil tablet
+tamsulosin,Capsule,"400 
+microgram",SM,R,tamsulosin capsule
+terazosin,Tablet,2 mg,SM,R,terazosin tablet
+terazosin,Tablet,5 mg,SM,R,terazosin tablet
+verdanafil,Tablet,(blank),(blank),R,verdanafil tablet
+alendronate,Injection,(blank),(blank),R,alendronate injection
+calcitonin,,(blank),(blank),R,calcitonin
+denosumab,Injection,60 mg/ml,(blank),R,denosumab injection
+denosumab,Injection,70 mg/ml,(blank),R,denosumab injection
+"intravenous immunoglob-
+ulin (ivig)",Injection,(blank),(blank),R,"intravenous immunoglob-
+ulin (ivig) injection"
+pamidronate,Injection,15 mg/ml,(blank),R,pamidronate injection
+pamidronate,Injection,6 mg/ml,(blank),R,pamidronate injection
+phosphocitrate,,(blank),(blank),R,phosphocitrate
+probenecid,,(blank),(blank),R,probenecid
+strontium ranelate,"Granule 
+Sachets",2 g,(blank),R,"strontium ranelate granule 
+sachets"
+teriparatide,,(blank),(blank),R,teriparatide
+triamcinolone,Injection,(blank),(blank),R,triamcinolone injection
+entecavir,Tablet,"50 
+microgram/
+ml",(blank),R,entecavir tablet
+entecavir,Tablet,"500 
+microgram",(blank),R,entecavir tablet
+ribavirin,Tablet,200 mg,(blank),R,ribavirin tablet
+ribavirin,Tablet,400 mg,(blank),R,ribavirin tablet
+salbutamol,Tablet,4mg,M,R,salbutamol tablet
+salbutamol,Injection,500 microgram/ml,B2,R,salbutamol injection
+ergometrine,Injection,"200 
+microgram/
+ml",M,R,ergometrine injection
+ergometrine,Injection,"500 
+microgram/
+ml",M,R,ergometrine injection
+ergometrine,Tablet,"200 
+microgram",M,R,ergometrine tablet
+ergometrine,Tablet,"500 
+microgram",M,R,ergometrine tablet
+mifepristone,Tablet,"600 
+microgram",SM,NR,mifepristone tablet
+misoprostol,Tablet,"100 
+microgram",PM,NR,misoprostol tablet
+misoprostol,Tablet,"200 
+microgram",PM,NR,misoprostol tablet
+misoprostol,Tablet,"25 
+microgram",M,NR,misoprostol tablet
+misoprostol,Tablet,"50 
+microgram",M,NR,misoprostol tablet
+misoprostol,Vaginal Tablet,"200 
+microgram",PM,R,misoprostol vaginal tablet
+oxytocin,Injection,10 units/ml,M,R,oxytocin injection
+oxytocin,Injection,5 units/ml,M,R,oxytocin injection
+atropine,Injection,0.6 mg/ml,B2,R,atropine injection
+diazepam,Injection,5 mg/ml,B1,R,diazepam injection
+lorazepam,Injection,4 mg/ml,D,R,lorazepam injection
+lorazepam,Tablet,1 mg,B2,R,lorazepam tablet
+lorazepam,Tablet,2 mg,B2,R,lorazepam tablet
+midazolam,Injection,1mg/ml,C,R,midazolam injection
+midazolam,Tablet,15mg,B2,R,midazolam tablet
+alprazolam,Tablet,(blank),(blank),R,alprazolam tablet
+amitriptyline,Tablet,10 mg,B1,R,amitriptyline tablet
+amitriptyline,Tablet,25 mg,B2,R,amitriptyline tablet
+amitriptyline,Tablet,50 mg,B1,R,amitriptyline tablet
+atomoxetine,Tablet,(blank),(blank),R,atomoxetine tablet
+benzatropine,Injection,1 mg/ml,C,R,benzatropine injection
+benzatropine,Tablet,2 mg,C,R,benzatropine tablet
+biperiden,Injection,5 mg/ml,C,NR,biperiden injection
+biperiden,Tablet,2 mg,C,NR,biperiden tablet
+chloral hydrate,Oral Solution,28.66 mg/ml,(blank),R,chloral hydrate oral solution
+chloral hydrate,Tablet,707 mg,(blank),R,chloral hydrate tablet
+"chlordiazepoxide 
+hydrochloride",Tablet,5 mg,C,R,"chlordiazepoxide 
+hydrochloride tablet"
+chlorpromazine,Injection,25 mg/ml,B2,R,chlorpromazine injection
+chlorpromazine,Tablet,100 mg,B1,R,chlorpromazine tablet
+chlorpromazine,Tablet,25 mg,B1,R,chlorpromazine tablet
+chlorpromazine,Tablet,50 mg,B1,R,chlorpromazine tablet
+citalopram,Tablet,10 mg,(blank),R,citalopram tablet
+citalopram,Tablet,20 mg,(blank),R,citalopram tablet
+citalopram,Tablet,40 mg,(blank),R,citalopram tablet
+diazepam,Injection,5 mg/ml,B1,R,diazepam injection
+diazepam,Tablet,10 mg,M,R,diazepam tablet
+diazepam,Tablet,5 mg,M,R,diazepam tablet
+duloxetine hydrochloride,Tablet,20 mg,(blank),R,duloxetine hydrochloride tablet
+duloxetine hydrochloride,Tablet,30 mg,(blank),R,duloxetine hydrochloride tablet
+fluoxetine,Capsule,20 mg,C,R,fluoxetine capsule
+flupenthixol decanoate,Injection,20 mg/ml,(blank),R,flupenthixol decanoate injection
+fluphenazine decanoate,Injection,25 mg/ml,SM,R,fluphenazine decanoate injection
+haloperidol,Injection,5 mg,SM,R,haloperidol injection
+haloperidol,Tablet,10 mg,C,R,haloperidol tablet
+haloperidol,Tablet,5 mg,C,R,haloperidol tablet
+imipramine,Tablet,25 mg,C,R,imipramine tablet
+lamotrigine,Tablet,100 mg,(blank),R,lamotrigine tablet
+lamotrigine,Tablet,25 mg,(blank),R,lamotrigine tablet
+lamotrigine,Tablet,50 mg,(blank),R,lamotrigine tablet
+lithium carbonate,"Tablet (slow 
+release)",200 mg,SM,R,"lithium carbonate tablet (slow 
+release)"
+lithium carbonate,"Tablet (slow 
+release)",500 mg,SM,R,"lithium carbonate tablet (slow 
+release)"
+lorazepam,Tablet,2 mg,B2,R,lorazepam tablet
+melatonin,"Tablet 
+(Modified 
+release)",2 mg,(blank),R,"melatonin tablet 
+(modified 
+release)"
+"methylphenidate 
+hydrochloride",Tablet,5 mg,SM,R,"methylphenidate 
+hydrochloride tablet"
+olanzapine,Injection,5 mg/ml,SM,R,olanzapine injection
+olanzapine,Tablet,10 mg,SM,R,olanzapine tablet
+olanzapine,Tablet,5 mg,SM,R,olanzapine tablet
+risperidone,Tablet,1 mg,SM,R,risperidone tablet
+risperidone,Tablet,2 mg,SM,R,risperidone tablet
+risperidone,Tablet,"500 
+microgram",SM,R,risperidone tablet
+sertraline,Tablet,100 mg,SM,R,sertraline tablet
+sertraline,Tablet,50 mg,SM,R,sertraline tablet
+sodium valproate,Tablet,200 mg,D,R,sodium valproate tablet
+triazolam,Tablet,(blank),(blank),R,triazolam tablet
+trihexyphenidyl,Oral Solution,1 mg/ml,C,R,trihexyphenidyl oral solution
+trihexyphenidyl,Tablet,2mg,C,R,trihexyphenidyl tablet
+trihexyphenidyl,Tablet,5mg,C,R,trihexyphenidyl tablet
+mist potassium citrate,Solution,(blank),(blank),R,mist potassium citrate solution
+oral rehydration salts,Sachet,(blank),A,R,oral rehydration salts sachet
+potassium chloride,Tablet,600mg,B1,R,potassium chloride tablet
+badoe's solution,Injection,1000 ml,B1,R,badoe's solution injection
+calcium gluconate,Injection,"10% (100 
+mg/ml)",B2,R,calcium gluconate injection
+"cholera replacement 
+fluid",Injection,(5:4:1),B1,R,"cholera replacement 
+fluid injection"
+darrow's solution,Half-strenght,250 ml,B1,R,darrow's solution half-strenght
+dextrose,Infusion,10% (250 ml),B1,R,dextrose infusion
+dextrose,Infusion,10% (500 ml),B1,R,dextrose infusion
+dextrose,Infusion,20% (250 ml),C,R,dextrose infusion
+dextrose,Infusion,5% (250 ml),M,R,dextrose infusion
+dextrose,Infusion,5% (500 ml),M,R,dextrose infusion
+dextrose,Infusion,50% (50 ml),B2,R,dextrose infusion
+"dextrose in sodium 
+chloride",Infusion,"10% in 0.18% 
+(250 ml)",C,R,"dextrose in sodium 
+chloride infusion"
+"dextrose in sodium 
+chloride",Infusion,"4.3% in 
+0.18% (250 
+ml)",M,R,"dextrose in sodium 
+chloride infusion"
+"dextrose in sodium 
+chloride",Infusion,"5% in 0.9% 
+(500 ml)",M,R,"dextrose in sodium 
+chloride infusion"
+potassium chloride,Injection,"20 mEq/10 
+ml",C,R,potassium chloride injection
+ringers lactate,Infusion,500 ml,M,R,ringers lactate infusion
+sodium bicarbonate,Injection,0.084,C,R,sodium bicarbonate injection
+sodium chloride,Injection,"0.45% (250 
+ml)",B1,R,sodium chloride injection
+sodium chloride,Injection,"0.9% (250 
+ml)",M,NR,sodium chloride injection
+sodium chloride,Injection,"0.9% (500 
+ml)",M,R,sodium chloride injection
+"sodium chloride + 
+potassium chloride",Injection,"0.9% + 20 
+mMol (500 
+ml)",SM,NR,"sodium chloride + 
+potassium chloride injection"
+water for injection,Injection,(blank),A,R,water for injection injection
+calciferol,Injection,(blank),D,R,calciferol injection
+calciferol,Tablet,10 000 units,D,R,calciferol tablet
+calcium,Tablet,(blank),M,R,calcium tablet
+calcium + vitamin d,Tablet,"97 mg + 10 
+microgram",M,R,calcium + vitamin d tablet
+calcium gluconate,Injection,100 mg/ml,B2,R,calcium gluconate injection
+multivitamin,Syrup,(blank),A,R,multivitamin syrup
+multivitamin,Tablet,(blank),A,R,multivitamin tablet
+pyridoxine,Tablet,100 mg,B2,R,pyridoxine tablet
+pyridoxine,Tablet,50 mg,B2,R,pyridoxine tablet
+retinol,Capsule,100 000 IU,A,R,retinol capsule
+retinol,Capsule,200 000 IU,A,R,retinol capsule
+thiamine,Injection,100 mg,C,R,thiamine injection
+thiamine,Tablet,100 mg,C,R,thiamine tablet
+thiamine,Tablet,25 mg,C,R,thiamine tablet
+thiamine,Tablet,50 mg,C,R,thiamine tablet
+vitamin b-compound,Injection,"(High 
+potency)",(blank),R,vitamin b-compound injection
+vitamin c,Tablet,(blank),(blank),R,vitamin c tablet
