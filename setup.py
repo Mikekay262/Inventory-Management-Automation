@@ -17,7 +17,7 @@ def get_requirements(file_path:str)-> List[str]:
     return requirements
 
 setup(
-name= "Rational Drug Use Monitor",
+name= "Inventory Management Automation",
 version= "0.0.1",
 author= "Michael Adu",
 author_email= "mikekay262@gmail.com",
